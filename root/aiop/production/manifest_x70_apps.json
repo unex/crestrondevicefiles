@@ -1,0 +1,21 @@
+[
+ {
+    "deviceModel": "TS*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/aiop/production/zrc_6_3_5.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/production/version-apk-x70.txt",
+        "fileType": "apk",
+        "packageName": "us.partner.zoom.zrc",
+        "versionNumber": "6.3.5.3287"
+      },
+      {
+        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/MonochromePublic.apk",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "100.0.4896.79"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+	{
+        "deviceModel": "HD-MD*-4KZ-E",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/hd-md4x1-4kz-e_hd-md4x2-4kz-e_hd-md4x4-4kz-e_hd-md8x4-4kz-e_hd-md8x8-4kz-e_2.0.5328.00054.puf",
+                "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/hdmdnxm4kze/production/hdmdnxm4kze_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

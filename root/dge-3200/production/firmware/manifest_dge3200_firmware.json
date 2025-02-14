@@ -1,0 +1,12 @@
+[
+   {
+      "deviceModel":"DGE-3200",
+      "filesToUpdate":[
+         {
+            "fileUrl":"https://devicefiles.crestron.io/dge-3200/production/firmware/dge-3200_9.5633.00144.puf",
+            "fileHashUrl":"https://crestrondevicefiles.blob.core.windows.net/dge-3200/production/firmware/dge-3200-version.txt",
+            "fileType":"firmware"
+         }
+      ]
+   }
+]

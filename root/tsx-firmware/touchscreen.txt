@@ -1,0 +1,72 @@
+[
+    {
+        "deviceModel": "TSS-7",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx60_3.002.1061.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSS-10",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx60_3.002.1061.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSR-310*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsr-310_2.001.0153.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/tsr-310_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-560*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx60_3.002.1061.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-760*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx60_3.002.1061.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-1060*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx60_3.002.1061.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSS*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/Status_commands.txt",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tsx-firmware/Status_commands_version.txt",
+                "fileType": "config"
+            }
+        ]
+    }
+]

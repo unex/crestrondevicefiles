@@ -1,0 +1,72 @@
+[
+    {
+        "deviceModel": "TSW-570*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-770*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-1070*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TS-770*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TS-1070*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSS-770*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSS-1070*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.006.0054.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

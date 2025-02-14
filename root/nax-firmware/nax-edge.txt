@@ -1,0 +1,42 @@
+[
+  {
+    "deviceModel": "DM-NAX-2XLRI-*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-wp_1.0.0071.14250_r534695.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  },
+    {
+    "deviceModel": "DM-NAX-AUD-IO-*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-wp_1.0.0071.14250_r534695.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  },
+  {
+    "deviceModel": "DM-NAX-AUD-USB-*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-wp_1.0.0110.15291_r538673.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  },
+  {
+    "deviceModel": "DM-NAX-BTIO-*",
+    "filesToUpdate": [
+      {
+        "fileUrl":"https://devicefiles.crestron.io/firmware/dm-nax-wp_1.0.0261.13034_r553207.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/btio-hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }   
+]

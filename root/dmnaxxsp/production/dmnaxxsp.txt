@@ -1,0 +1,12 @@
+[
+    {
+        "deviceModel": "DM-NAX-XSP*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/dm-nax-xsp-enc_1.5957.22521_r537952.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dmnaxxsp/production/dmnaxxsp-hash.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

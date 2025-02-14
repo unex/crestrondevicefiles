@@ -1,0 +1,12 @@
+[
+   {
+      "deviceModel":"PC-350V-12",
+      "filesToUpdate":[
+         {
+            "fileUrl":"https://devicefiles.crestron.io/firmware/pc-350v-1x_3.009.0176.07220.puf",
+            "fileHashUrl":"https://crestrondevicefiles.blob.core.windows.net/pc350v12/pdu-version.txt",
+            "fileType":"firmware"
+         }
+      ]
+   }
+]

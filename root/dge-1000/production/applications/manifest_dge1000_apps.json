@@ -1,0 +1,35 @@
+[
+    {
+        "deviceModel": "DGE-1000",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/sonos_dge_1000_16_1.zip",
+				"fileHashUrl": "https://devicefiles.crestron.io/dge-1000/production/applications/sonos_dge_1000_hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1"
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/ch_dge_1000_4_4_18.apk",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dge-1000/production/applications/ch_dge_1000_hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.4.18"
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.17.apk",
+				"fileHashUrl": "https://devicefiles.crestron.io/dge-1000/production/applications/crestron_general_web_dge_1000_hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.generalweb",
+                "versionNumber": "1.02.17"
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/MonochromePublic_dge_100_100_0_4096_79.apk",
+				"fileHashUrl": "https://devicefiles.crestron.io/dge-1000/production/applications/monochrome_public_dge_1000_hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79"
+            }
+        ]
+    }
+]

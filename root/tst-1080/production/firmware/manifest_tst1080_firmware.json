@@ -1,0 +1,12 @@
+[
+    {
+        "deviceModel": "TST*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tst-1080_1.003.0132.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/firmware/tst-1080_hash.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

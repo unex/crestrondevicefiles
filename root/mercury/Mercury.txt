@@ -1,0 +1,82 @@
+[
+    {
+        "deviceModel": "MERCURY",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/mercury_1.4736.00038.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/mercury/mercury_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "MERCURY-X",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/mercury_1.4736.00038.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/mercury/mercury_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "CCS-FF-*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/amps_1.4499.00020.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/mercury/amps_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-300",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/amps_1.5670.00003.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/mercury/amps_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-200",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/amps_1.5670.00003.001.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/mercury/amps_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "UC-2*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/uc2fw-1.0.7.65.bin",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/uc-2/production/firmware.hash",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "UC-P*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/pcdfw-1.0.6.20.bin",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/uc-2/production/pcd_fw.hash",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "UC-P*-TD*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/tdfw-1.0.0.57.bin",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/uc-2/production/TD_hash.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"deviceModel": "UC-Engine-A",
+		"filesToUpdate": [
+			{
+				"fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aca/qe/ZR_APK/ZR_5.9.3.653_product.apk",
+				"fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aca/qe/ZR_APK/ZR_APK_5.9.3.653.txt",
+				"fileType": "apk",
+				"packageName": "us.zoom.zoompresence",
+				"versionNumber": "5.9.3.653"
+			}
+		]
+	}
+]

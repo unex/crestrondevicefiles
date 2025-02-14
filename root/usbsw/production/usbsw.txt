@@ -1,0 +1,13 @@
+[
+	{ 
+		"deviceModel": "USB-SW*",
+		"filesToUpdate":
+			[
+				{
+					"fileUrl": "https://devicefiles.crestron.io/firmware/usb-sw_1.000.5670.00019.zip",
+					"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/usbsw/production/USB-SW-400_hash.txt",
+					"fileType": "firmware"
+				}
+			]
+	}
+]

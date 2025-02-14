@@ -1,0 +1,29 @@
+[
+  {
+    "deviceModel": "UC-SB2-CAM-A*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.3.5.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/version-apk.txt",
+        "fileType": "apk",
+        "packageName": "us.zoom.zoompresence",
+        "versionNumber": "6.3.5.6258"
+      },
+      {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/TeamsRoom-1449_1.0.96.2024020802.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/teams-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.microsoft.skype.teams.ipphone",
+        "versionNumber": "1449/1.0.96.2024020802"
+      },
+      {
+        "packageName": "com.huddly.iqupgrader",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/dev/peripheral/huddly_ver.txt",
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/dev/peripheral/iq-sw-1.6.8-121425.hpk",
+        "fileType": "peripheral",
+        "versionNumber": "iq-sw-1.6.8-121425",
+        "timeout":15
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "DM-NAX-*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/nax-firmware/dm-nax-4zsa_1.0.0205.18120_r541353.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax1ru-hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]

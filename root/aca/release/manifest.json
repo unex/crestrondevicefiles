@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "UC-Engine-A",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aca/qe/ACA_FW/RC/aca_1.0-mm30z_1.2203.24064.puf",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aca/release/version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]

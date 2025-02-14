@@ -1,0 +1,42 @@
+[
+    {
+        "deviceModel": "AM-3000-WF*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0600.0079.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-3100-WF*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0600.0079.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-3200",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0600.0079.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileType": "firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-3200-WF*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0600.0079.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

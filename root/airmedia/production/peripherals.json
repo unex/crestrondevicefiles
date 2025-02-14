@@ -1,0 +1,32 @@
+[
+    {
+        "deviceModel": "AM-3000-WF*",
+        "filesToUpdate": [
+			{
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3-100_AU_1.0.1.160.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
+                "fileType": "tx3firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-3100-WF*",
+        "filesToUpdate": [
+			{
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3-100_AU_1.0.1.160.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
+                "fileType": "tx3firmware"
+            }
+        ]
+    },
+    {
+        "deviceModel": "AM-3200-WF*",
+        "filesToUpdate": [
+			{
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3-100_AU_1.0.1.160.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
+                "fileType": "tx3firmware"
+            }
+        ]
+    }
+]

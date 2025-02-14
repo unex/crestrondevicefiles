@@ -1,0 +1,21 @@
+[
+	{
+		"deviceModel": "TSS-470*",
+		"filesToUpdate": [
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/tangoreserve_1_0_14_27.apk",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/tangoreserve-prod-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.tango.reserve.deskTouch",
+				"versionNumber": "1.0.14.27"
+			},
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_67_0.apk",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/appspace-prod-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.appspace.app",
+				"versionNumber": "2.67.0"
+			}
+		]
+	}
+]

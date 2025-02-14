@@ -1,0 +1,12 @@
+[
+    { 
+        "deviceModel":  "virtualcontrol",
+        "filesToUpdate": [
+        {
+            "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/virtualcontrol-qe/virtualcontrol_release_notes.pdf",
+            "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/virtualcontrol-qe/virtualcontrol_version.txt",
+            "fileType": "releasenotes"
+        }
+        ]
+    } 
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "Flex-Hub*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/gemini_hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]

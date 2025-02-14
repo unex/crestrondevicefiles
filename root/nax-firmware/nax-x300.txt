@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "DM-NAX-AMP*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/dm-nax-amp-x300_1.1.0082.22396_r490081.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-x300-version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]

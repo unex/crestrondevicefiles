@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "UC-SB2-CAM-A*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/uc-sb2-cam-a_1.241106.1472.puf",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]

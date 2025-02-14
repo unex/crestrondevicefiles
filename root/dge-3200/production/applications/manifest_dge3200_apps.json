@@ -1,0 +1,21 @@
+[
+	{
+        "deviceModel": "DGE-3200",
+        "filesToUpdate": [
+            {
+				"fileUrl": "https://devicefiles.crestron.io/dge-3200/production/applications/CH_TSW_3_20_8.apk",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dge-3200/production/applications/crestronhome-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.phoenix.touchscreen",
+				"versionNumber": "3.20.8"
+			},	
+			{
+				"fileUrl": "https://devicefiles.crestron.io/dge-3200/production/applications/crestron_general_web_v1.0.apk",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dge-3200/production/applications/crestron_general_web-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.generalweb",
+				"versionNumber": "1.0"
+			}
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "deviceModel": "TS*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/dev/tsx-xxx-version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

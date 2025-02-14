@@ -1,0 +1,14 @@
+[
+ {
+    "deviceModel": "TS*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/zrc5.16.5.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/dev/apk/version-zrc-apk.txt",
+        "fileType": "apk",
+        "packageName": "us.partner.zoom.zrc",
+        "versionNumber": "5.16.5"
+      }
+    ]
+  }
+]

@@ -57,6 +57,7 @@ aiop/production/manifest_x70_firmware.json
 aiop/production/tsw-xx70_version.txt
 aiop/production/version-apk-x70.txt
 aiop/production/zrc6.0.02720.apk
+aiop/production/zrc_6_3_5.apk
 aiop/teams-version-apk.txt
 aiop/version-apk.txt
 aiop/version.txt
@@ -95,8 +96,12 @@ apps/tangoreserve_1_0_14_27.apk
 apps/zrc5.16.5.apk
 apps/zrc_6_1_5.apk
 apps/zrc_6_1_5.zip
+apps/zrc_6_3_5.apk
+apps/zrc_6_3_5.zip
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/AVFsetupprogram_7.0001.0001.nik
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/manifest_7.0001.0001.hash
+avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/AVFsetupprogram_7.0100.0005.nik
+avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/manifest_7.0100.0005.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/autoupdate_manifest.txt
 avf-device-release/AVF_PRO_Autoupdate/AVF_Latest_ReleaseNotes.html
 cengw1/cengw1.txt
@@ -132,11 +137,14 @@ firmware/dm-nax_2.10.0092.16447.puf
 firmware/hd-ctl-101_hd-md2x1-8k_1.3.5747.00013.puf
 firmware/hd-md4x1-4kz-e_hd-md4x2-4kz-e_hd-md4x4-4kz-e_hd-md8x4-4kz-e_hd-md8x8-4kz-e_2.0.5328.00054.puf
 firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00055.puf
+firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00074.puf
 firmware/hd-txu-4kz-211_hd-txu-4kz-211-chgr_hd-rxu-4kz-202_1.2.5302.00043.puf
 firmware/mercury_1.4736.00038.001.puf
 firmware/mercury_1.5003.00055.001.puf
 firmware/pc-350v-1x_3.009.0176.07220.puf
 firmware/pcdfw-1.0.6.20.bin
+firmware/tdfw-1.0.0.57.bin
+firmware/tsr-310_2.001.0153.001.puf
 firmware/tsr-310_2.001.0153.001.puf-1.0.0.57.bin
 firmware/tss-470e_2.001.0009.puf
 firmware/tst-1080_1.003.0132.puf

@@ -1,0 +1,13 @@
+[
+	{ 
+		"deviceModel": "HD-*",
+		"filesToUpdate":
+			[
+				{
+					"fileUrl": "https://devicefiles.crestron.io/firmware/hd-txu-4kz-211_hd-txu-4kz-211-chgr_hd-rxu-4kz-202_1.2.5302.00043.puf",
+					"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/hdtxrxu/production/hdtxrxu_hash.txt",
+					"fileType": "firmware"
+				}
+			]
+	}
+]

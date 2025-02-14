@@ -1,0 +1,12 @@
+[
+	{
+        "deviceModel": "HD-CTL-101",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/hd-ctl-101_hd-md2x1-8k_1.3.5747.00013.puf",
+                "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/hdctl/production/hdctl_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "SAROS-DM-NAX-*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/dm-nax-poe_1.2.0119.19297_r549619.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-saros-prod-hash.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]
