@@ -1,0 +1,48 @@
+name: Run and Commit Changes
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  run-app:
+    runs-on: ubuntu-latest
+    steps:
+      # https://www.dzombak.com/blog/2024/09/Freeing-disk-space-on-GitHub-Actions-runners.html
+      - name: Free disk space
+        run: curl -fsSL https://raw.githubusercontent.com/kou/arrow/e49d8ae15583ceff03237571569099a6ad62be32/ci/scripts/util_free_space.sh | bash
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+
+      - name: Install Pipenv
+        run: pip install pipenv
+
+      - name: Install dependencies
+        run: pipenv install
+
+      - name: Run app.py using Pipenv
+        run: pipenv run actions
+
+      - name: Commit changes if any
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions"
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "$(date)"
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.HEAD_REF }}

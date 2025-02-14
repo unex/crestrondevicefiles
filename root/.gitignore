@@ -1,0 +1,7 @@
+*.*
+!.gitignore
+
+# only commit text files
+!*.txt
+!*.json
+!*.hash

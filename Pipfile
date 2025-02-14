@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+backoff = "*"
+tqdm = "*"
+fake-useragent = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
+
+[scripts]
+app = "python app.py"
+actions = "python app.py --gh-actions"
