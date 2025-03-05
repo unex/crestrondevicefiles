@@ -89,6 +89,7 @@ apps/appspace_2_67_0.apk
 apps/appspace_2_76_0.apk
 apps/crestronFull-14.23.apk
 apps/crestron_general_web_1_02_014.apk
+apps/dm-nax-edge_1.0.0341.18273_r559674.zip
 apps/dm-nax-wp_1.0.0071.14250_r534695.zip
 apps/dm-nax-wp_1.0.0110.15291_r538673.zip
 apps/eventboard-v2.20.0.apk
@@ -130,6 +131,7 @@ firmware/amps_1.4499.00020.001.puf
 firmware/amps_1.5670.00003.001.puf
 firmware/dge-1000_1.0001.00050.puf
 firmware/dm-nax-amp-x300_1.1.0082.22396_r490081.zip
+firmware/dm-nax-edge_1.0.0341.18273_r559674.zip
 firmware/dm-nax-poe_1.2.0119.19297_r549619.zip
 firmware/dm-nax-wp_1.0.0261.13034_r553207.zip
 firmware/dm-nax-xsp-enc_1.5957.22521_r537952.zip
