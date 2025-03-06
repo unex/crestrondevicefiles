@@ -33,7 +33,7 @@
     "deviceModel": "DM-NAX-BTIO-*",
     "filesToUpdate": [
       {
-        "fileUrl":"https://devicefiles.crestron.io/firmware/dm-nax-edge_1.0.0341.18273_r559674.zip",
+        "fileUrl":"https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0341.18273_r559674.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/btio-hash.txt",
         "fileType": "firmware"
       }
