@@ -18,7 +18,7 @@
             },
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.25.apk",
-				"fileHashUrl": "https://devicefiles.crestron.io/dge-1000/production/applications/crestron_general_web_dge_1000_hash.txt",
+				"fileHashUrl":"https://crestrondevicefiles.blob.core.windows.net/dge-1000/production/applications/crestron_general_web_dge_1000_hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.generalweb",
                 "versionNumber": "1.02.25"
