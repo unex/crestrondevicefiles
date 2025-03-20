@@ -86,6 +86,7 @@ apps/Spaceconnect/Spaceconnect_432.apk
 apps/TeamsRoom-1449_1.0.96.2024020802.apk
 apps/Wallpad_v1.2.1_19.apk
 apps/appspace-2_78_2.apk
+apps/appspace-2_79_0.apk
 apps/appspace_2_67_0.apk
 apps/appspace_2_76_0.apk
 apps/crestronFull-14.23.apk
