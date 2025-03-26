@@ -151,6 +151,7 @@ firmware/tdfw-1.0.0.57.bin
 firmware/tsr-310_2.001.0153.001.puf
 firmware/tsr-310_2.001.0153.001.puf-1.0.0.57.bin
 firmware/tss-470e_2.001.0009.puf
+firmware/tss-470e_2.002.0011.puf
 firmware/tst-1080_1.003.0132.puf
 firmware/tsw-xx60_3.002.1061.001.puf
 firmware/tsw-xx70_2.005.1069.001.puf

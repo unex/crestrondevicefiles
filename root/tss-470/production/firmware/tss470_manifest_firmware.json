@@ -3,7 +3,7 @@
       "deviceModel":"TSS-470E",
       "filesToUpdate":[
          {
-            "fileUrl":"https://devicefiles.crestron.io/firmware/tss-470e_2.001.0009.puf",
+            "fileUrl":"https://devicefiles.crestron.io/firmware/tss-470e_2.002.0011.puf",
             "fileHashUrl":"https://crestrondevicefiles.blob.core.windows.net/tss-470/production/firmware/tss-470-version.txt",
             "fileType":"firmware"
          }
