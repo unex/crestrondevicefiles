@@ -89,12 +89,16 @@ apps/appspace-2_78_2.apk
 apps/appspace-2_79_0.apk
 apps/appspace_2_67_0.apk
 apps/appspace_2_76_0.apk
+apps/appspace_2_79_0.apk
 apps/crestronFull-14.23.apk
 apps/crestron_general_web_1_02_014.apk
 apps/dm-nax-edge_1.0.0341.18273_r559674.zip
 apps/dm-nax-wp_1.0.0071.14250_r534695.zip
 apps/dm-nax-wp_1.0.0110.15291_r538673.zip
 apps/eventboard-v2.20.0.apk
+apps/generalweb_1_02_026.apk
+apps/korbyt_3_2_3.apk
+apps/newwaveworkspace_1_0_5.apk
 apps/tangoreserve_1_0_14_27.apk
 apps/zrc5.16.5.apk
 apps/zrc_6_1_5.apk
@@ -200,6 +204,9 @@ pc350v18/pdu-version.txt
 sonosapks/sonos_16_1.zip
 sonosapks/sonos_version.txt
 tss-470/production/applications/appspace-prod-hash.txt
+tss-470/production/applications/generalweb-prod-hash.txt
+tss-470/production/applications/korbyt-prod-hash.txt
+tss-470/production/applications/newwaveworkspace-prod-hash.txt
 tss-470/production/applications/tangoreserve-prod-hash.txt
 tss-470/production/applications/tss470_manifest_apps.json
 tss-470/production/firmware/tss-470-version.txt

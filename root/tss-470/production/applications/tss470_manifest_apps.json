@@ -1,21 +1,42 @@
 [
-	{
-		"deviceModel": "TSS-470*",
-		"filesToUpdate": [
+    {
+        "deviceModel": "TSS-470*",
+        "filesToUpdate": [
+            {
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/tangoreserve-prod-hash.txt",
+                "fileType": "apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/tangoreserve_1_0_14_27.apk",
+                "packageName": "com.tango.reserve.deskTouch",
+                "versionNumber": "1.0.14.27"
+            },
+            {
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/appspace-prod-hash.txt",
+                "fileType": "apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_79_0.apk",
+                "packageName": "com.appspace.app",
+                "versionNumber": "2.79.0"
+            },
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/tangoreserve_1_0_14_27.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/tangoreserve-prod-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.tango.reserve.deskTouch",
-				"versionNumber": "1.0.14.27"
-			},
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/generalweb-prod-hash.txt",
+                "fileType": "apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/generalweb_1_02_026.apk",
+                "packageName": "com.crestron.generalweb",
+                "versionNumber": "1.02.026"
+            },
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_67_0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/appspace-prod-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.appspace.app",
-				"versionNumber": "2.67.0"
-			}
-		]
-	}
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/korbyt-prod-hash.txt",
+                "fileType": "apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/korbyt_3_2_3.apk",
+                "packageName": "com.crestron.korbyt",
+                "versionNumber": "3.2.3"
+            },
+			{
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/newwaveworkspace-prod-hash.txt",
+                "fileType": "apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/newwaveworkspace_1_0_5.apk",
+                "packageName": "com.newwaveapps.schedulerdisplay",
+                "versionNumber": "1.0.5"
+            }
+        ]
+    }
 ]
