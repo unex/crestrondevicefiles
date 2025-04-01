@@ -136,6 +136,7 @@ firmware/am3xxx_3.0600.0079.puf
 firmware/amps_1.4499.00020.001.puf
 firmware/amps_1.5670.00003.001.puf
 firmware/dge-1000_1.0001.00050.puf
+firmware/dge-1000_1.0002.00045.puf
 firmware/dm-nax-amp-x300_1.1.0082.22396_r490081.zip
 firmware/dm-nax-edge_1.0.0341.18273_r559674.zip
 firmware/dm-nax-poe_1.2.0119.19297_r549619.zip

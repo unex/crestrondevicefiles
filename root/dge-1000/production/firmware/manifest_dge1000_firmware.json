@@ -3,10 +3,10 @@
       "deviceModel":"DGE-1000",
       "filesToUpdate":[
          {
-            "fileUrl":"https://devicefiles.crestron.io/firmware/dge-1000_1.0001.00050.puf",
+            "fileUrl":"https://devicefiles.crestron.io/firmware/dge-1000_1.0002.00045.puf",
             "fileHashUrl":"https://crestrondevicefiles.blob.core.windows.net/dge-1000/production/firmware/dge-1000-version.txt",
             "fileType":"firmware",
-            "versionNumber": "1.0001.00050"
+            "versionNumber": "1.0002.00045"
          }
       ]
    }
