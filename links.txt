@@ -72,12 +72,15 @@ airmedia/production/crestron_general_web-hash.txt
 airmedia/production/peripherals.json
 apps/22miles_5_4_40226.apk
 apps/CH_TST_4.4.18.apk
+apps/CH_TST_4.5.32.apk
 apps/CH_TSW70_4.4.18.apk
+apps/CH_TSW70_4.5.32.apk
 apps/Crestron_General_Web_v1.02.017.apk
 apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.17.apk
 apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.25.apk
 apps/DGE-1000/MonochromePublic_dge_100_100_0_4096_79.apk
 apps/DGE-1000/ch_dge_1000_4_4_18.apk
+apps/DGE-1000/ch_dge_1000_4_5_32.apk
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
 apps/NFS-RoomDisplay-v3.1.27.apk

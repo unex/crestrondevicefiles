@@ -10,11 +10,11 @@
                 "versionNumber": "16.1"
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/ch_dge_1000_4_4_18.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/ch_dge_1000_4_5_32.apk",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dge-1000/production/applications/ch_dge_1000_hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.4.18"
+                "versionNumber": "4.5.32"
             },
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.25.apk",
