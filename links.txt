@@ -83,6 +83,7 @@ apps/DGE-1000/ch_dge_1000_4_4_18.apk
 apps/DGE-1000/ch_dge_1000_4_5_32.apk
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
+apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk
 apps/NFS-RoomDisplay-v3.1.27.apk
 apps/RobinRooms-Crestron-v4.1.3.apk
 apps/Spaceconnect/Spaceconnect_432.apk

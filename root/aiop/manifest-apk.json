@@ -10,11 +10,11 @@
         "versionNumber": "6.3.5.6258"
       },
       {
-        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/TeamsRoom-1449_1.0.96.2024020802.apk",
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/teams-version-apk.txt",
         "fileType": "apk",
         "packageName": "com.microsoft.skype.teams.ipphone",
-        "versionNumber": "1449/1.0.96.2024020802"
+        "versionNumber": "1449/1.0.96.2025020302"
       },
       {
         "packageName": "com.huddly.iqupgrader",
