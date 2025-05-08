@@ -3,7 +3,7 @@
         "deviceModel": "TS*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.005.1069.001.puf",
+                "fileUrl": "",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/production/tsw-xx70_version.txt",
                 "fileType": "firmware"
             }
