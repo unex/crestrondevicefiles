@@ -165,6 +165,7 @@ firmware/tss-470e_2.002.0011.puf
 firmware/tst-1080_1.003.0132.puf
 firmware/tst-1080_1.003.0140.puf
 firmware/tsw-xx60_3.002.1061.001.puf
+firmware/tsw-xx70_2.004.1026.001.puf
 firmware/tsw-xx70_2.005.1069.001.puf
 firmware/tsw-xx70_2.006.0054.001.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
