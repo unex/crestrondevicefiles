@@ -3,6 +3,10 @@ name: Create and publish a Docker image to GitHub Container Registry
 on:
   push:
     branches: ['master']
+    paths-ignore:
+      - 'links.txt'
+      - 'root/'
+      - '.github/'
   workflow_dispatch: {}
 
 env:
