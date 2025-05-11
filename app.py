@@ -29,6 +29,8 @@ BINARY_EXTENSIONS  = {'.bin'}
 class Manager:
     links: set[str]
     new_links: set[str]
+    progress_bar = True
+    search_links = True
 
     def __init__(self, base_folder='root', links_file='links.txt'):
         self.ua = UserAgent()
@@ -153,7 +155,7 @@ class Manager:
             if part_file_path.exists():
                 part_file_path.unlink()
 
-            if self.gh_actions:
+            if not self.progress_bar:
                 print(f"Downloading {relative_url}")
 
             with open(part_file_path, 'wb') as file, tqdm(
@@ -163,7 +165,7 @@ class Manager:
                 desc=f"Downloading {relative_url}",
                 position=0,
                 leave=True,
-                disable=self.gh_actions,
+                disable=not self.progress_bar,
             ) as progress_bar:
                 for chunk in response.iter_content(chunk_size=1024):
                     if chunk:
@@ -171,6 +173,10 @@ class Manager:
                         progress_bar.update(len(chunk))
 
             part_file_path.rename(file_path)
+
+            if not self.search_links:
+                return
+
             if file_path.suffix.lower() in ARCHIVE_EXTENSIONS:
                 links = self.process_new_archive(file_path)
                 new_links = links - self.links
@@ -238,6 +244,7 @@ class Manager:
         self.gh_actions = args.gh_actions
 
         if self.gh_actions:
+            self.progress_bar = False
             print("Running in gh-actions")
 
         with open('links.txt', 'r') as file:
@@ -248,6 +255,12 @@ class Manager:
             if args.force_archives:
                 self.links.update(self.new_links)
                 self.force_process_archives()
+                return
+
+            if args.download:
+                self.progress_bar = False
+                self.search_links = False
+                self.download_links(self.links)
                 return
 
             self.new_links = set(self.links) # copy
@@ -277,6 +290,7 @@ class Manager:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--gh-actions", action="store_true", help="For gh-actions")
+    parser.add_argument("--download", action="store_true", help="Download all links")
     parser.add_argument("--force-archives", action="store_true", help="Force processing of archives")
     args = parser.parse_args()
 

@@ -17,3 +17,4 @@ python_version = "3.13"
 [scripts]
 app = "python app.py"
 actions = "python app.py --gh-actions"
+download = "python app.py --download"
