@@ -114,11 +114,11 @@
 				"versionNumber": "0.0.103"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/CH_TSW70_4.5.32.apk",
+				"fileUrl": "https://devicefiles.crestron.io/apps/CH_TSW70_4.6.15.apk",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.5.32"
+				"versionNumber": "4.6.15"
 			},			
 			{
 				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/KardhamDigital.apk",
