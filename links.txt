@@ -177,6 +177,7 @@ firmware/am-tx3-100_AU_1.0.1.160.zip
 firmware/am-tx3_AU_2.0.1.2.zip
 firmware/am3xxx_3.0600.0079.puf
 firmware/am3xxx_3.0700.0379.puf
+firmware/am3xxx_3.0700.0433.puf
 firmware/amps_1.4499.00020.001.puf
 firmware/amps_1.5670.00003.001.puf
 firmware/dge-1000_1.0001.00050.puf
@@ -188,6 +189,7 @@ firmware/dm-nax-wp_1.0.0261.13034_r553207.zip
 firmware/dm-nax-x300_1.2.0309.10341_r566019.zip
 firmware/dm-nax-xsp-enc_1.5957.22521_r537952.zip
 firmware/dm-nax_2.10.0092.16447.puf
+firmware/dm-nax_3.0.0227.19199.puf
 firmware/hd-ctl-101_hd-md2x1-8k_1.3.5747.00013.puf
 firmware/hd-md4x1-4kz-e_hd-md4x2-4kz-e_hd-md4x4-4kz-e_hd-md8x4-4kz-e_hd-md8x8-4kz-e_2.0.5328.00054.puf
 firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00055.puf

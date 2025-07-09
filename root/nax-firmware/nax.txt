@@ -3,7 +3,7 @@
     "deviceModel": "DM-NAX-*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/dm-nax_2.10.0092.16447.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/dm-nax_3.0.0227.19199.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-version.txt",
         "fileType": "firmware"
       }
