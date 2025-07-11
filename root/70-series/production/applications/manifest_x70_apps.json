@@ -17,7 +17,7 @@
 				"versionNumber": "4.6.15"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/General_Web_v1.02.017.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.generalweb",
@@ -59,12 +59,18 @@
 				"versionNumber": "10.11.5"
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/dsclient_4.4.1008.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/dsclient-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.addonproducts.dssclient",
+				"versionNumber": "4.4.1008"
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/envoy_v1_2_0.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.envoy.rooms.crestron",
 				"versionNumber": "1.2.0+9.crestron"
-
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/gingco_1.2.9.17.zip",
@@ -74,11 +80,11 @@
 				"versionNumber": "1.2.9.17"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.23.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.27.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.gobright.brightbooking.display",
-				"versionNumber": "14.23"
+				"versionNumber": "14.27"
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",
@@ -254,7 +260,7 @@
 				"versionNumber": "4.6.15"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/General_Web_v1.02.017.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.generalweb",
@@ -296,12 +302,18 @@
 				"versionNumber": "10.11.5"
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/dsclient_4.4.1008.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/dsclient-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.addonproducts.dssclient",
+				"versionNumber": "4.4.1008"
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/envoy_v1_2_0.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.envoy.rooms.crestron",
 				"versionNumber": "1.2.0+9.crestron"
-
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/gingco_1.2.9.17.zip",
@@ -311,11 +323,11 @@
 				"versionNumber": "1.2.9.17"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.23.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.27.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.gobright.brightbooking.display",
-				"versionNumber": "14.23"
+				"versionNumber": "14.27"
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",
@@ -491,7 +503,7 @@
 				"versionNumber": "4.6.15"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/General_Web_v1.02.017.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.generalweb",
@@ -533,12 +545,18 @@
 				"versionNumber": "10.11.5"
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/dsclient_4.4.1008.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/dsclient-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.addonproducts.dssclient",
+				"versionNumber": "4.4.1008"
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/envoy_v1_2_0.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.envoy.rooms.crestron",
 				"versionNumber": "1.2.0+9.crestron"
-
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/gingco_1.2.9.17.zip",
@@ -546,13 +564,6 @@
 				"fileType": "apk",
 				"packageName": "net.gingco.display",
 				"versionNumber": "1.2.9.17"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.23.zip",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.gobright.brightbooking.display",
-				"versionNumber": "14.23"
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",

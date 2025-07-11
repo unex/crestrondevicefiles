@@ -11,6 +11,7 @@
 70-series/production/applications/delos-darwin-premier.txt
 70-series/production/applications/door-tablet-cre_10_11_5.apk
 70-series/production/applications/doortablet-hash.txt
+70-series/production/applications/dsclient-hash.txt
 70-series/production/applications/envoy-hash.txt
 70-series/production/applications/eventBoard-hash.txt
 70-series/production/applications/gingco-hash.txt
@@ -73,6 +74,7 @@ airmedia/production/peripherals.json
 apps/22miles_5_4_40226.apk
 apps/70-Series/Signed/22miles_5_4_40226.zip
 apps/70-Series/Signed/CH_TSW70_4.6.15.zip
+apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip
 apps/70-Series/Signed/DelosDarwinPremier0.103.zip
 apps/70-Series/Signed/General_Web_v1.02.017.zip
 apps/70-Series/Signed/Hummingbird-7_6_2.zip
@@ -90,7 +92,9 @@ apps/70-Series/Signed/Wallpad_v1.2.1_19.zip
 apps/70-Series/Signed/appspace-2_79_0.zip
 apps/70-Series/Signed/askcody_v1.3.1.zip
 apps/70-Series/Signed/crestronFull-14.23.zip
+apps/70-Series/Signed/crestronFull-14.27.zip
 apps/70-Series/Signed/door-tablet-cre_10_11_5.zip
+apps/70-Series/Signed/dsclient_4.4.1008.zip
 apps/70-Series/Signed/envoy_v1_2_0.zip
 apps/70-Series/Signed/eventboard-v2.20.0.zip
 apps/70-Series/Signed/gingco_1.2.9.17.zip
