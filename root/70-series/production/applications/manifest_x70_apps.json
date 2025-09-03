@@ -11,6 +11,14 @@
 				"downgradeable": false
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.blackbird",
+				"versionNumber": "1.2.3.133",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
@@ -285,6 +293,14 @@
 				"fileType": "apk",
 				"packageName": "org.chromium.chrome",
 				"versionNumber": "100.0.4896.79",
+				"downgradeable": false
+			},
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.blackbird",
+				"versionNumber": "1.2.3.133",
 				"downgradeable": false
 			},
 			{
@@ -565,6 +581,14 @@
 				"downgradeable": false
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.blackbird",
+				"versionNumber": "1.2.3.133",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
@@ -834,6 +858,14 @@
 				"downgradeable": false
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.blackbird",
+				"versionNumber": "1.2.3.133",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
@@ -868,6 +900,14 @@
 				"fileType": "apk",
 				"packageName": "org.chromium.chrome",
 				"versionNumber": "100.0.4896.79",
+				"downgradeable": false
+			},
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.blackbird",
+				"versionNumber": "1.2.3.133",
 				"downgradeable": false
 			},
 			{
@@ -913,6 +953,14 @@
 				"fileType": "apk",
 				"packageName": "org.chromium.chrome",
 				"versionNumber": "100.0.4896.79",
+				"downgradeable": false
+			},
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.blackbird",
+				"versionNumber": "1.2.3.133",
 				"downgradeable": false
 			},
 			{

@@ -4,6 +4,7 @@
 70-series/production/applications/Meeting4Display_Crestron_3_2_0.apk
 70-series/production/applications/appspace-hash.txt
 70-series/production/applications/askcody-hash.txt
+70-series/production/applications/blackbird-hash.txt
 70-series/production/applications/chromium-hash.txt
 70-series/production/applications/crestronFull-hash.txt
 70-series/production/applications/crestron_general_web-hash.txt
@@ -100,6 +101,7 @@ apps/70-Series/Signed/dsclient_4.4.1008.zip
 apps/70-Series/Signed/envoy_v1_2_0.zip
 apps/70-Series/Signed/eventboard-v2.20.0.zip
 apps/70-Series/Signed/gingco_1.2.9.17.zip
+apps/70-Series/Signed/h5display_1_2_3_133.zip
 apps/70-Series/Signed/indoor_finders_v9.5.0.zip
 apps/70-Series/Signed/kuiqmeeting-1_0.zip
 apps/70-Series/Signed/matrix-signage-1.10.0.zip
