@@ -3,11 +3,11 @@
     "deviceModel": "UC-SB2-CAM-A*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.3.5.apk",
+        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.5.5.7566_product.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/version-apk.txt",
         "fileType": "apk",
         "packageName": "us.zoom.zoompresence",
-        "versionNumber": "6.3.5.6258"
+        "versionNumber": "6.5.5.7566""
       },
       {
         "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk",

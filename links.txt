@@ -59,6 +59,7 @@ aiop/production/manifest_x70_firmware.json
 aiop/production/tsw-xx70_version.txt
 aiop/production/version-apk-x70.txt
 aiop/production/zrc6.0.02720.apk
+aiop/production/zrc_6.5.5.3902.apk
 aiop/production/zrc_6_3_5.apk
 aiop/teams-version-apk.txt
 aiop/version-apk.txt
