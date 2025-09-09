@@ -162,6 +162,8 @@ avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/AVFsetupprogram_7.0001
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/manifest_7.0001.0001.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/AVFsetupprogram_7.0100.0005.nik
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/manifest_7.0100.0005.hash
+avf-device-release/AVF_PRO_Autoupdate/4series/7.0300.0000/AVFsetupprogram_7.0300.0000.nik
+avf-device-release/AVF_PRO_Autoupdate/4series/7.0300.0000/manifest_7.0300.0000.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/autoupdate_manifest.txt
 avf-device-release/AVF_PRO_Autoupdate/AVF_Latest_ReleaseNotes.html
 cengw1/cengw1.txt
