@@ -208,6 +208,7 @@ firmware/hd-md4x1-4kz-e_hd-md4x2-4kz-e_hd-md4x4-4kz-e_hd-md8x4-4kz-e_hd-md8x8-4k
 firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00055.puf
 firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00074.puf
 firmware/hd-txu-4kz-211_hd-txu-4kz-211-chgr_hd-rxu-4kz-202_1.2.5302.00043.puf
+firmware/hd-txu-4kz-211_hd-txu-4kz-211-chgr_hd-rxu-4kz-202_1.2.5302.00046.puf
 firmware/mercury_1.4736.00038.001.puf
 firmware/mercury_1.5003.00055.001.puf
 firmware/pc-350v-1x_3.009.0176.07220.puf
