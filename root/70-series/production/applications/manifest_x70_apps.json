@@ -669,6 +669,14 @@
 				"downgradeable": false
 			},
 			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.27.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.gobright.brightbooking.display",
+				"versionNumber": "14.27",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/wallpad_version.txt",
 				"fileType": "apk",
