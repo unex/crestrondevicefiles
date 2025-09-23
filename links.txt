@@ -204,6 +204,7 @@ firmware/dm-nax-x300_1.2.0309.10341_r566019.zip
 firmware/dm-nax-xsp-enc_1.5957.22521_r537952.zip
 firmware/dm-nax_2.10.0092.16447.puf
 firmware/dm-nax_3.0.0227.19199.puf
+firmware/dm-nax_3.1.0103.18484.puf
 firmware/hd-ctl-101_hd-md2x1-8k_1.3.5747.00013.puf
 firmware/hd-md4x1-4kz-e_hd-md4x2-4kz-e_hd-md4x4-4kz-e_hd-md8x4-4kz-e_hd-md8x8-4kz-e_2.0.5328.00054.puf
 firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00055.puf
@@ -226,6 +227,7 @@ firmware/tsw-xx70_2.004.1026.001.puf
 firmware/tsw-xx70_2.005.1069.001.puf
 firmware/tsw-xx70_2.005.1116.001.puf
 firmware/tsw-xx70_2.006.0054.001.puf
+firmware/tsw-xx70_3.002.0040.001.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf
 firmware/uc-sb2-cam-a_1.241106.1472.puf
