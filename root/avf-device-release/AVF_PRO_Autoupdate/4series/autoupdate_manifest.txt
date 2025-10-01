@@ -4,9 +4,9 @@
 		"DeviceModel": "*",
 		"FilesToUpdate": [
 		 {
-			"FileUrl": "https://devicefiles.crestron.io/avf-device-release/AVF_PRO_Autoupdate/4series/7.0300.0000/AVFsetupprogram_7.0300.0000.nik",                    
-			"FileHashUrl": "https://devicefiles.crestron.io/avf-device-release/AVF_PRO_Autoupdate/4series/7.0300.0000/manifest_7.0300.0000.hash",
-			"ReleaseNotes": "https://www.crestron.com/release_notes/avf_7.0300.0000_release_notes.pdf",
+			"FileUrl": "https://devicefiles.crestron.io/avf-device-release/AVF_PRO_Autoupdate/4series/7.0301.0000/AVFsetupprogram_7.0301.0000.nik",                    
+			"FileHashUrl": "https://devicefiles.crestron.io/avf-device-release/AVF_PRO_Autoupdate/4series/7.0301.0000/manifest_7.0301.0000.hash",
+			"ReleaseNotes": "https://www.crestron.com/release_notes/avf_7.0301.0000%20release_notes.pdf",
 			"FileType": "shipwithprogram",
 			"minFirmwareVersion" : "2.5001"                        
 		 }

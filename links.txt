@@ -77,6 +77,7 @@ apps/22miles_5_4_40226.apk
 apps/70-Series/Signed/22miles_5_4_40226.zip
 apps/70-Series/Signed/CH_TSW70_4.6.15.zip
 apps/70-Series/Signed/CH_TSW70_4.6.18.zip
+apps/70-Series/Signed/CH_TSW70_4.7.9.zip
 apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip
 apps/70-Series/Signed/DelosDarwinPremier0.103.zip
 apps/70-Series/Signed/General_Web_v1.02.017.zip
@@ -118,6 +119,7 @@ apps/CH_TST_4.4.18.apk
 apps/CH_TST_4.5.32.apk
 apps/CH_TST_4.6.15.apk
 apps/CH_TST_4.6.18.zip
+apps/CH_TST_4.7.9.zip
 apps/CH_TSW70_4.4.18.apk
 apps/CH_TSW70_4.5.32.apk
 apps/CH_TSW70_4.6.15.apk
@@ -129,6 +131,7 @@ apps/DGE-1000/ch_dge_1000_4_4_18.apk
 apps/DGE-1000/ch_dge_1000_4_5_32.apk
 apps/DGE-1000/ch_dge_1000_4_6_15.apk
 apps/DGE-1000/ch_dge_1000_4_6_18.zip
+apps/DGE-1000/ch_dge_1000_4_7_9.zip
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
 apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk
@@ -166,6 +169,8 @@ avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/AVFsetupprogram_7.0100
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/manifest_7.0100.0005.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0300.0000/AVFsetupprogram_7.0300.0000.nik
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0300.0000/manifest_7.0300.0000.hash
+avf-device-release/AVF_PRO_Autoupdate/4series/7.0301.0000/AVFsetupprogram_7.0301.0000.nik
+avf-device-release/AVF_PRO_Autoupdate/4series/7.0301.0000/manifest_7.0301.0000.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/autoupdate_manifest.txt
 avf-device-release/AVF_PRO_Autoupdate/AVF_Latest_ReleaseNotes.html
 cengw1/cengw1.txt
