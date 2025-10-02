@@ -99,6 +99,7 @@ apps/70-Series/Signed/appspace-2_88_1.zip
 apps/70-Series/Signed/askcody_v1.3.1.zip
 apps/70-Series/Signed/crestronFull-14.23.zip
 apps/70-Series/Signed/crestronFull-14.27.zip
+apps/70-Series/Signed/crestronFull-14.37.zip
 apps/70-Series/Signed/door-tablet-cre_10_11_5.zip
 apps/70-Series/Signed/dsclient_4.4.1008.zip
 apps/70-Series/Signed/envoy_v1_2_0.zip
