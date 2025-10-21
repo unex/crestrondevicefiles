@@ -28,6 +28,7 @@
 70-series/production/applications/nexudus-hash.txt
 70-series/production/applications/nfs-hash.txt
 70-series/production/applications/officespace-hash.txt
+70-series/production/applications/oro-hash.txt
 70-series/production/applications/pads4-hash.txt
 70-series/production/applications/pepperdash-hash.txt
 70-series/production/applications/robin-hash.txt
@@ -101,6 +102,7 @@ apps/70-Series/Signed/crestronFull-14.23.zip
 apps/70-Series/Signed/crestronFull-14.27.zip
 apps/70-Series/Signed/crestronFull-14.37.zip
 apps/70-Series/Signed/door-tablet-cre_10_11_5.zip
+apps/70-Series/Signed/door-tablet-cre_10_50_7.zip
 apps/70-Series/Signed/dsclient_4.4.1008.zip
 apps/70-Series/Signed/envoy_v1_2_0.zip
 apps/70-Series/Signed/eventboard-v2.20.0.zip
@@ -110,12 +112,14 @@ apps/70-Series/Signed/indoor_finders_v9.5.0.zip
 apps/70-Series/Signed/kuiqmeeting-1_0.zip
 apps/70-Series/Signed/matrix-signage-1.10.0.zip
 apps/70-Series/Signed/nw-display-4.0.6-as-3.0.24.zip
+apps/70-Series/Signed/oro-1.1.0.zip
 apps/70-Series/Signed/oss-crestron-1.0.zip
 apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip
 apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip
 apps/70-Series/Signed/sonos_16_1.zip
 apps/70-Series/Signed/spaceiq-release.zip
 apps/70-Series/Signed/zrc_6_3_5.zip
+apps/70-Series/Signed/zrc_6_5_5.zip
 apps/CH_TST_4.4.18.apk
 apps/CH_TST_4.5.32.apk
 apps/CH_TST_4.6.15.apk
@@ -235,6 +239,7 @@ firmware/tsw-xx70_2.005.1069.001.puf
 firmware/tsw-xx70_2.005.1116.001.puf
 firmware/tsw-xx70_2.006.0054.001.puf
 firmware/tsw-xx70_3.002.0040.001.puf
+firmware/tsw-xx70_3.002.0043.001.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf
 firmware/uc-sb2-cam-a_1.241106.1472.puf

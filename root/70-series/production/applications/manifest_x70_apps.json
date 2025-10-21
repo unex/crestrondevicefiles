@@ -19,11 +19,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.7.9.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.6.18",
+				"versionNumber": "4.7.9",
 				"downgradeable": false
 			},
 			{
@@ -67,11 +67,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_11_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_50_7.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.door_tablet.doors",
-				"versionNumber": "10.11.5",
+				"versionNumber": "10.50.7",
 				"downgradeable": false
 			},
 			{
@@ -203,6 +203,15 @@
 				"downgradeable": false
 			},
 			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.1.0",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PADS4-1_0.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
 				"fileType": "apk",
@@ -275,11 +284,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_3_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_5_5.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
 				"fileType": "apk",
 				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.3.5.3287",
+				"versionNumber": "6.5.5.3902",
 				"downgradeable": false
 			}
 		]
@@ -304,11 +313,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.7.9.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.6.18",
+				"versionNumber": "4.7.9",
 				"downgradeable": false
 			},
 			{
@@ -352,11 +361,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_11_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_50_7.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.door_tablet.doors",
-				"versionNumber": "10.11.5",
+				"versionNumber": "10.50.7",
 				"downgradeable": false
 			},
 			{
@@ -488,6 +497,15 @@
 				"downgradeable": false
 			},
 			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.1.0",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PADS4-1_0.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
 				"fileType": "apk",
@@ -560,11 +578,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_3_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_5_5.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
 				"fileType": "apk",
 				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.3.5.3287",
+				"versionNumber": "6.5.5.3902",
 				"downgradeable": false
 			}
 		]
@@ -589,11 +607,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.7.9.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.6.18",
+				"versionNumber": "4.7.9",
 				"downgradeable": false
 			},
 			{
@@ -637,11 +655,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_11_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_50_7.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.door_tablet.doors",
-				"versionNumber": "10.11.5",
+				"versionNumber": "10.50.7",
 				"downgradeable": false
 			},
 			{
@@ -773,6 +791,15 @@
 				"downgradeable": false
 			},
 			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.1.0",
+				"downgradeable": false
+			},
+			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PADS4-1_0.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
 				"fileType": "apk",
@@ -845,11 +872,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_3_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_5_5.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
 				"fileType": "apk",
 				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.3.5.3287",
+				"versionNumber": "6.5.5.3902",
 				"downgradeable": false
 			}
 		]
@@ -874,11 +901,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.7.9.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.6.18",
+				"versionNumber": "4.7.9",
 				"downgradeable": false
 			},
 			{
@@ -919,11 +946,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.7.9.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.6.18",
+				"versionNumber": "4.7.9",
 				"downgradeable": false
 			},
 			{
@@ -972,11 +999,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.6.18.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.7.9.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
 				"fileType": "apk",
 				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.6.18",
+				"versionNumber": "4.7.9",
 				"downgradeable": false
 			},
 			{
