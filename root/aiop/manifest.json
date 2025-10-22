@@ -1,12 +1,26 @@
+
 [
-  {
-    "deviceModel": "UC-SB2-CAM-A*",
-    "filesToUpdate": [
-      {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf",
-        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version.txt",
-        "fileType": "firmware"
-      }
-    ]
-  }
+	{
+		"deviceModel": "UC-SB2-CAM-A*",
+		"filesToUpdate": [
+			{
+				"fileUrl": "https://devicefiles.crestron.io/firmware/uc-sb2-cam-a_1.3-user_1.300000.1685.puf",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version.txt",
+				"fileType": "firmware",
+				"versionNumber": "1.300000.1685"
+			},
+			{
+				"fileUrl": "https://devicefiles.crestron.io/firmware/uc-sb2-cam-a_1.3-user_1.300000.1685.puf",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version.txt",
+				"fileType": "firmware-Teams",
+				"versionNumber": "1.300000.1685"			
+			},
+			{
+				"fileUrl": "https://devicefiles.crestron.io/firmware/uc-sb2-cam-a_1.3-user_1.300000.1685.puf",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version.txt",
+				"fileType": "firmware-Zoom",
+				"versionNumber": "1.300000.1685"
+			}
+		]
+	}
 ]

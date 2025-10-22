@@ -168,6 +168,7 @@ apps/zrc_6_1_5.apk
 apps/zrc_6_1_5.zip
 apps/zrc_6_3_5.apk
 apps/zrc_6_3_5.zip
+apps/zrc_6_5_5.zip
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/AVFsetupprogram_7.0001.0001.nik
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/manifest_7.0001.0001.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/AVFsetupprogram_7.0100.0005.nik
@@ -237,12 +238,14 @@ firmware/tsw-xx60_3.002.1061.001.puf
 firmware/tsw-xx70_2.004.1026.001.puf
 firmware/tsw-xx70_2.005.1069.001.puf
 firmware/tsw-xx70_2.005.1116.001.puf
+firmware/tsw-xx70_2.005.1136.001.puf
 firmware/tsw-xx70_2.006.0054.001.puf
 firmware/tsw-xx70_3.002.0040.001.puf
 firmware/tsw-xx70_3.002.0043.001.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf
 firmware/uc-sb2-cam-a_1.241106.1472.puf
+firmware/uc-sb2-cam-a_1.3-user_1.300000.1685.puf
 firmware/uc2fw-1.0.7.35.bin
 firmware/uc2fw-1.0.7.65.bin
 firmware/usb-sw_1.000.5670.00019.zip
