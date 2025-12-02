@@ -202,9 +202,11 @@ dmnaxxsp/production/dmnaxxsp.txt
 dmps3omap/dmps3omap.txt
 firmware/am-tx3-100_AU_1.0.1.160.zip
 firmware/am-tx3_AU_2.0.1.2.zip
+firmware/am-tx3_AU_2.1.1.17.zip
 firmware/am3xxx_3.0600.0079.puf
 firmware/am3xxx_3.0700.0379.puf
 firmware/am3xxx_3.0700.0433.puf
+firmware/am3xxx_3.0800.0157.puf
 firmware/amps_1.4499.00020.001.puf
 firmware/amps_1.5670.00003.001.puf
 firmware/dge-1000_1.0001.00050.puf

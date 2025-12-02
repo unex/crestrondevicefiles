@@ -1,39 +1,19 @@
 [
     {
-        "deviceModel": "AM-3000-WF*",
+        "deviceModel": "TX3-100",
         "filesToUpdate": [
-			{
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.0.1.2.zip",
+            {
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.1.1.17.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
-                "fileType": "tx3firmware"
+                "fileType": "peripheral"
             }
         ]
     },
     {
-        "deviceModel": "AM-3100-WF*",
-        "filesToUpdate": [
-			{
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.0.1.2.zip",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
-                "fileType": "tx3firmware"
-            }
-        ]
-    },
-    {
-        "deviceModel": "AM-3200-WF*",
-        "filesToUpdate": [
-			{
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.0.1.2.zip",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
-                "fileType": "tx3firmware"
-            }
-        ]
-    },
-	{
         "deviceModel": "TX3-200",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.0.1.2.zip",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.1.1.17.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
                 "fileType": "peripheral"
             }
