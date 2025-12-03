@@ -284,11 +284,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_5_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_6_5.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
 				"fileType": "apk",
 				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.5.5.3902",
+				"versionNumber": "6.6.5.4359",
 				"downgradeable": false
 			}
 		]
@@ -578,11 +578,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_5_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_6_5.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
 				"fileType": "apk",
 				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.5.5.3902",
+				"versionNumber": "6.6.5.4359",
 				"downgradeable": false
 			}
 		]
@@ -872,11 +872,11 @@
 				"downgradeable": false
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_5_5.zip",
+				"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_6_5.zip",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
 				"fileType": "apk",
 				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.5.5.3902",
+				"versionNumber": "6.6.5.4359",
 				"downgradeable": false
 			}
 		]

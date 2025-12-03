@@ -120,6 +120,7 @@ apps/70-Series/Signed/sonos_16_1.zip
 apps/70-Series/Signed/spaceiq-release.zip
 apps/70-Series/Signed/zrc_6_3_5.zip
 apps/70-Series/Signed/zrc_6_5_5.zip
+apps/70-Series/Signed/zrc_6_6_5.zip
 apps/CH_TST_4.4.18.apk
 apps/CH_TST_4.5.32.apk
 apps/CH_TST_4.6.15.apk
@@ -170,6 +171,7 @@ apps/zrc_6_1_5.zip
 apps/zrc_6_3_5.apk
 apps/zrc_6_3_5.zip
 apps/zrc_6_5_5.zip
+apps/zrc_6_6_5.zip
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/AVFsetupprogram_7.0001.0001.nik
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/manifest_7.0001.0001.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/AVFsetupprogram_7.0100.0005.nik
