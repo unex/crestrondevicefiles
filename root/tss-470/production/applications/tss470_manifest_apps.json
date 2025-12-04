@@ -26,9 +26,9 @@
 			{
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/korbyt-prod-hash.txt",
                 "fileType": "apk",
-                "fileUrl": "https://devicefiles.crestron.io/apps/korbyt_3_2_3.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/korbyt_3_2_6.apk",
                 "packageName": "com.crestron.korbyt",
-                "versionNumber": "3.2.3"
+                "versionNumber": "3.2.6"
             },
 			{
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/newwaveworkspace-prod-hash.txt",

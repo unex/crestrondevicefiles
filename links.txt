@@ -163,6 +163,7 @@ apps/dm-nax-wp_1.0.0110.15291_r538673.zip
 apps/eventboard-v2.20.0.apk
 apps/generalweb_1_02_026.apk
 apps/korbyt_3_2_3.apk
+apps/korbyt_3_2_6.apk
 apps/newwaveworkspace_1_0_5.apk
 apps/tangoreserve_1_0_14_27.apk
 apps/zrc5.16.5.apk
