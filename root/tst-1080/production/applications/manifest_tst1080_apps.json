@@ -1,39 +1,35 @@
 [
-	{
-		"deviceModel": "TST-1080",
-		"filesToUpdate": [
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/zrc_6_6_5.zip",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/applications/zoomscheduling-hash.txt",
-				"fileType": "apk",
-				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.6.5.4359",
-				"downgradeable": false
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/CH_TST_4.7.9.zip",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/applications/tst-ch-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.7.9",
-				"downgradeable": false
-			},			
-			{
-				"fileUrl": "https://devicefiles.crestron.io/sonosapks/sonos_16_1.zip",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
-				"fileType": "apk",
-				"packageName": "com.sonos.acr2",
-				"versionNumber": "16.1",
-				"downgradeable": false
-			},
-			{	
-				"fileUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/DelosDarwinPremier0.103.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
-				"fileType": "apk",
-				"packageName": "com.delos.darwinPremier",
-				"versionNumber": "0.0.103",
-				"downgradeable": false
-			}
-		]
-	}
+    {
+        "deviceModel": "TST-1080",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/zrc_6_3_5.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/applications/zoomscheduling-hash.txt",
+                "fileType": "apk",
+                "packageName": "us.partner.zoom.zrc",
+                "versionNumber": "6.3.5.3287"
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/CH_TST_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/applications/tst-ch-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },            {
+                "fileUrl": "https://devicefiles.crestron.io/sonosapks/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1"
+            },
+            {
+                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/DelosDarwinPremier0.103.apk",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103"
+            }
+        ]
+    }
 ]

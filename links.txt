@@ -127,6 +127,7 @@ apps/CH_TST_4.5.32.apk
 apps/CH_TST_4.6.15.apk
 apps/CH_TST_4.6.18.zip
 apps/CH_TST_4.7.9.zip
+apps/CH_TST_4.8.10.zip
 apps/CH_TSW70_4.4.18.apk
 apps/CH_TSW70_4.5.32.apk
 apps/CH_TSW70_4.6.15.apk
