@@ -98,6 +98,7 @@ apps/70-Series/Signed/Wallpad_v1.2.1_19.zip
 apps/70-Series/Signed/appspace-2_79_0.zip
 apps/70-Series/Signed/appspace-2_86_0.zip
 apps/70-Series/Signed/appspace-2_88_1.zip
+apps/70-Series/Signed/appspace-2_91_0.zip
 apps/70-Series/Signed/askcody_v1.3.1.zip
 apps/70-Series/Signed/crestronFull-14.23.zip
 apps/70-Series/Signed/crestronFull-14.27.zip
@@ -217,6 +218,7 @@ firmware/amps_1.4499.00020.001.puf
 firmware/amps_1.5670.00003.001.puf
 firmware/dge-1000_1.0001.00050.puf
 firmware/dge-1000_1.0002.00045.puf
+firmware/dge-1000_1.0002.00049.puf
 firmware/dm-nax-amp-x300_1.1.0082.22396_r490081.zip
 firmware/dm-nax-edge_1.0.0341.18273_r559674.zip
 firmware/dm-nax-poe_1.2.0119.19297_r549619.zip
