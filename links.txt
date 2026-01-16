@@ -8,6 +8,7 @@
 70-series/production/applications/chromium-hash.txt
 70-series/production/applications/crestronFull-hash.txt
 70-series/production/applications/crestron_general_web-hash.txt
+70-series/production/applications/crestron_webview-hash.txt
 70-series/production/applications/crestronhome-hash.txt
 70-series/production/applications/delos-darwin-premier.txt
 70-series/production/applications/door-tablet-cre_10_11_5.apk
@@ -103,6 +104,7 @@ apps/70-Series/Signed/askcody_v1.3.1.zip
 apps/70-Series/Signed/crestronFull-14.23.zip
 apps/70-Series/Signed/crestronFull-14.27.zip
 apps/70-Series/Signed/crestronFull-14.37.zip
+apps/70-Series/Signed/crestronwebview_3_0.zip
 apps/70-Series/Signed/door-tablet-cre_10_11_5.zip
 apps/70-Series/Signed/door-tablet-cre_10_50_7.zip
 apps/70-Series/Signed/dsclient_4.4.1008.zip

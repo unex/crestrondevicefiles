@@ -34,6 +34,14 @@
                 "versionNumber": "1.02.017",
                 "downgradeable": false
             },
+	    {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronwebview_3_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_webview-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.webview",
+                "versionNumber": "3.0",
+                "downgradeable": false
+            },
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/22miles_5_4_40226.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/22miles-hash.txt",
@@ -328,6 +336,14 @@
                 "versionNumber": "1.02.017",
                 "downgradeable": false
             },
+	    {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronwebview_3_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_webview-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.webview",
+                "versionNumber": "3.0",
+                "downgradeable": false
+            },
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/22miles_5_4_40226.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/22miles-hash.txt",
@@ -620,6 +636,14 @@
                 "fileType": "apk",
                 "packageName": "com.crestron.generalweb",
                 "versionNumber": "1.02.017",
+                "downgradeable": false
+            },
+	    {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronwebview_3_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_webview-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.webview",
+                "versionNumber": "3.0",
                 "downgradeable": false
             },
             {
