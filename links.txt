@@ -223,6 +223,7 @@ firmware/dge-1000_1.0002.00045.puf
 firmware/dge-1000_1.0002.00049.puf
 firmware/dm-nax-amp-x300_1.1.0082.22396_r490081.zip
 firmware/dm-nax-edge_1.0.0341.18273_r559674.zip
+firmware/dm-nax-poe-spk_2.0.0163.19137_r586708.zip
 firmware/dm-nax-poe_1.2.0119.19297_r549619.zip
 firmware/dm-nax-wp_1.0.0261.13034_r553207.zip
 firmware/dm-nax-x300_1.2.0309.10341_r566019.zip
