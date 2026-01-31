@@ -3,11 +3,11 @@
         "deviceModel": "AM-3100*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_81_0.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_92_0.apk",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/appspace-am3k-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.appspace.app",
-                "versionNumber": "2.81.0"
+                "versionNumber": "2.92.0"
             },
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/crestron_general_web_1_02_014.apk",
@@ -22,11 +22,11 @@
         "deviceModel": "AM-3000*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_81_0.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_92_0.apk",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/appspace-am3k-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.appspace.app",
-                "versionNumber": "2.81.0"
+                "versionNumber": "2.92.0"
             },
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/crestron_general_web_1_02_014.apk",
@@ -41,11 +41,11 @@
         "deviceModel": "AM-3200*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_81_0.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_92_0.apk",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/appspace-am3k-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.appspace.app",
-                "versionNumber": "2.81.0"
+                "versionNumber": "2.92.0"
             },
 			{
 				"fileUrl": "https://devicefiles.crestron.io/apps/crestron_general_web_1_02_014.apk",

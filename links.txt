@@ -161,6 +161,7 @@ apps/appspace_2_76_0.apk
 apps/appspace_2_79_0.apk
 apps/appspace_2_81_0.apk
 apps/appspace_2_86_0.apk
+apps/appspace_2_92_0.apk
 apps/crestronFull-14.23.apk
 apps/crestron_general_web_1_02_014.apk
 apps/dm-nax-edge_1.0.0341.18273_r559674.zip
