@@ -3,19 +3,21 @@
     "deviceModel": "DM-NAX-2XLRI-*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0341.18273_r559674.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0677.10017_r585339.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
-        "fileType": "firmware"
+        "fileType": "firmware",
+        "versionNumber": "1.0.0677.10017"
       }
     ]
   },
-    {
+  {
     "deviceModel": "DM-NAX-AUD-IO-*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0341.18273_r559674.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0677.10017_r585339.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
-        "fileType": "firmware"
+        "fileType": "firmware",
+        "versionNumber": "1.0.0677.10017"
       }
     ]
   },
@@ -23,9 +25,10 @@
     "deviceModel": "DM-NAX-AUD-USB-*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0341.18273_r559674.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0677.10017_r585339.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
-        "fileType": "firmware"
+        "fileType": "firmware",
+        "versionNumber": "1.0.0677.10017"
       }
     ]
   },
@@ -33,10 +36,11 @@
     "deviceModel": "DM-NAX-BTIO-*",
     "filesToUpdate": [
       {
-        "fileUrl":"https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0341.18273_r559674.zip",
-        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/btio-hash.txt",
-        "fileType": "firmware"
+        "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0677.10017_r585339.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/nax-firmware/nax-edge-hash.txt",
+        "fileType": "firmware",
+        "versionNumber": "1.0.0677.10017"
       }
     ]
-  }   
+  }
 ]
