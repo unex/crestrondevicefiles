@@ -11,7 +11,7 @@
     ]
   },
   {
-    "deviceModel": "DM-NAX-AUD-IO-*",
+    "deviceModel": "DM-NAX-AUD-IO",
     "filesToUpdate": [
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0677.10017_r585339.zip",
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "deviceModel": "DM-NAX-AUD-USB-*",
+    "deviceModel": "DM-NAX-AUD-USB",
     "filesToUpdate": [
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/dm-nax-edge_1.0.0677.10017_r585339.zip",
