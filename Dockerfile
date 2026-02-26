@@ -13,7 +13,11 @@ RUN pipenv install --deploy
 
 FROM python:3.13-slim
 
-RUN pip install --upgrade pip && pip install pipenv
+RUN apt-get update \
+	&& apt-get install -y --no-install-recommends git \
+	&& rm -rf /var/lib/apt/lists/* \
+	&& pip install --upgrade pip \
+	&& pip install pipenv
 
 WORKDIR /app
 
@@ -22,4 +26,4 @@ COPY --from=build /app/.venv /app/.venv
 
 ENV PATH=/app/.venv/bin:$PATH
 
-CMD ["pipenv", "run", "download"]
+CMD ["sh", "-c", "cd /app && git pull --progress && pipenv run download"]
