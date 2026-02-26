@@ -22,6 +22,7 @@ RUN apt-get update \
 WORKDIR /app
 
 COPY . /app/
+RUN git config --local --unset-all http.https://github.com/.extraheader || true
 COPY --from=build /app/.venv /app/.venv
 
 ENV PATH=/app/.venv/bin:$PATH
