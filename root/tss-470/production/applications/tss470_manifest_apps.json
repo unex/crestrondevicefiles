@@ -12,9 +12,9 @@
             {
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/appspace-prod-hash.txt",
                 "fileType": "apk",
-                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_79_0.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/appspace_2_86_0.apk",
                 "packageName": "com.appspace.app",
-                "versionNumber": "2.79.0"
+                "versionNumber": "2.86.0"
             },
 			{
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/generalweb-prod-hash.txt",
@@ -26,9 +26,9 @@
 			{
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/korbyt-prod-hash.txt",
                 "fileType": "apk",
-                "fileUrl": "https://devicefiles.crestron.io/apps/korbyt_3_2_3.apk",
+                "fileUrl": "https://devicefiles.crestron.io/apps/korbyt_3_2_6.apk",
                 "packageName": "com.crestron.korbyt",
-                "versionNumber": "3.2.3"
+                "versionNumber": "3.2.6"
             },
 			{
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/newwaveworkspace-prod-hash.txt",

@@ -3,18 +3,18 @@
     "deviceModel": "UC-SB2-CAM-A*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.3.5.apk",
+        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.5.5.7566_product.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/version-apk.txt",
         "fileType": "apk",
         "packageName": "us.zoom.zoompresence",
-        "versionNumber": "6.3.5.6258"
+        "versionNumber": "6.5.5.7566"
       },
       {
-        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk",
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/MTRA_2.6.3_Microsoft-Teams-2025090901-ARM64.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/teams-version-apk.txt",
         "fileType": "apk",
         "packageName": "com.microsoft.skype.teams.ipphone",
-        "versionNumber": "1449/1.0.96.2025020302"
+        "versionNumber": "1449/1.0.96.2025223801"
       },
       {
         "packageName": "com.huddly.iqupgrader",

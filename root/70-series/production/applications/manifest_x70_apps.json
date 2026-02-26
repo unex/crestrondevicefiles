@@ -1,242 +1,1059 @@
 [
-	{
-		"deviceModel": "TS*",
-		"filesToUpdate": [{
-				"fileUrl": "https://devicefiles.crestron.io/apps/eventboard-v2.20.0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eventBoard-hash.txt",
-				"fileType": "apk",
-				"packageName": "enderlabs.eventboardandroid.custom",
-				"versionNumber": "2.20.0-b4957c47"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/RobinRooms-Crestron-v4.1.3.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/robin-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.robinpowered.rooms",
-				"versionNumber": "4.1.3"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/appspace-2_79_0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.appspace.app",
-				"versionNumber": "2.79.0"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/zrc_6_3_5.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
-				"fileType": "apk",
-				"packageName": "us.partner.zoom.zrc",
-				"versionNumber": "6.3.5.3287"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/gingco_1.2.9.17.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/gingco-hash.txt",
-				"fileType": "apk",
-				"packageName": "net.gingco.display",
-				"versionNumber": "1.2.9.17"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/Spaceconnect/Spaceconnect_432.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceconnect-hash.txt",
-				"fileType": "apk",
-				"packageName": "co.spaceconnect.apppanel",
-				"versionNumber": "4.3.2"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/NFS-RoomDisplay-v3.1.27.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nfs-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.NFSPanel",
-				"versionNumber": "3.1.27"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/scproxy_release_sharingcloud_4.19.6s.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_proxy-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.sharingcloud.proxy",
-				"versionNumber": "4.19.6s"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/scplayer_release_crestron_1.16.6s.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_player-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.sharingcloud.player",
-				"versionNumber": "1.16"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/spaceiq-release.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceiq-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.meetings.spaceiq",
-				"versionNumber": "0.0.3"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/nw-display-4.0.6-as-3.0.24.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/newwave-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.newwaveapps.schedulerdisplay",
-				"versionNumber": "1.0"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/askcody_v1.3.1.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/askcody-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.goaskcody.signage",
-				"versionNumber": "1.3.1"
-			},
-      		{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/matrix-signage-1.10.0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/matrix-signage-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.matrixbooking.signage",
-				"versionNumber": "1.10.0"
-			},
-      		{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/indoor_finders_v9.5.0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/indoor_finders-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.indoorfinders.rducrestron",
-				"versionNumber": "9.5.0"
-			},
-      		{
-				"fileUrl": "https://devicefiles.crestron.io/apps/22miles_5_4_40226.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/22miles-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.miles22.adsign",
-				"versionNumber": "5.4.40226"
-			},
-			{	
-				"fileUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/DelosDarwinPremier0.103.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
-				"fileType": "apk",
-				"packageName": "com.delos.darwinPremier",
-				"versionNumber": "0.0.103"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/CH_TSW70_4.5.32.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.crestron.phoenix.touchscreen",
-				"versionNumber": "4.5.32"
-			},			
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/KardhamDigital.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kardhamdigital-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.idm.viadirect.crestron",
-				"versionNumber": "1.0-crestron.viadirect.com"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/70-series/production/applications/Hummingbird-7_6_2.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/ioffice-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.iofficecorp.OpenSpace",
-				"versionNumber": "7.6.2"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/PepperDash_1_01.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pepperdash-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.pepperdash.roomsignage",
-				"versionNumber": "1.0.1"
-
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/oss-crestron-1.0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/officespace-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.officespacesoftware.roomscreen",
-				"versionNumber": "1.0"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/Crestron_General_Web_v1.02.017.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.crestron.generalweb",
-				"versionNumber": "1.02.017"
-			},	
-			{
-				"fileUrl": "https://devicefiles.crestron.io/70-series/production/applications/door-tablet-cre_10_11_5.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.door_tablet.doors",
-				"versionNumber": "10.11.5"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/70-series/production/applications/Meeting4Display_Crestron_3_2_0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.telelogos.meeting4display",
-				"versionNumber": "3.2.0"
-
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/Korbyt_1_3.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/korbyt-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.crestron.korbyt",
-				"versionNumber": "1.01.003"
-
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/envoy_v1_2_0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.envoy.rooms.crestron",
-				"versionNumber": "1.2.0+9.crestron"
-
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/kuiqmeeting-1_0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kuiqmeeting-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.kuiqmeeting",
-				"versionNumber": "1.0c"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/PADS4-1_0.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.pads4.viewer.crestron",
-				"versionNumber": "1.0"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/Nexudus-1_2_17.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nexudus-hash.txt",
-				"fileType": "apk",
-				"packageName": "com.nexudusspacescheckin",
-				"versionNumber": "1.2.17"
-			},
-			{
-				"fileUrl": "https://firmwareupload.blob.core.windows.net/apps/MonochromePublic.apk",
- 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
-				"fileType": "apk",
-				"packageName": "org.chromium.chrome",
-				"versionNumber": "100.0.4896.79"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/sonosapks/sonos_16_1.zip",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
-				"fileType": "apk",
-				"packageName": "com.sonos.acr2",
-				"versionNumber": "16.1"
-			},
-			{
-				"fileUrl": "https://devicefiles.crestron.io/apps/Wallpad_v1.2.1_19.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/wallpad_version.txt",
-				"fileType": "apk",
-				"packageName": "com.plantym.b2b.hyundai.wallpad",
-				"versionNumber": "1.2.1"
-			},
-			{
-    			"fileUrl": "https://devicefiles.crestron.io/apps/crestronFull-14.23.apk",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
-    			"fileType": "apk",
-    			"packageName": "com.gobright.brightbooking.display",
-    			"versionNumber": "14.23"
-			}
-
-		]
-	}
+    {
+        "deviceModel": "TS*GV",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/MonochromePublic.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.blackbird",
+                "versionNumber": "1.2.3.133",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.generalweb",
+                "versionNumber": "1.02.017",
+                "downgradeable": false
+            },
+	    {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronwebview_3_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_webview-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.webview",
+                "versionNumber": "3.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/22miles_5_4_40226.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/22miles-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.miles22.adsign",
+                "versionNumber": "5.4.40226",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.appspace.app",
+                "versionNumber": "2.91.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/askcody_v1.3.1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/askcody-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.goaskcody.signage",
+                "versionNumber": "1.3.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/DelosDarwinPremier0.103.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_50_7.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.door_tablet.doors",
+                "versionNumber": "10.50.7",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/dsclient_4.4.1008.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/dsclient-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.addonproducts.dssclient",
+                "versionNumber": "4.4.1008",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/envoy_v1_2_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.envoy.rooms.crestron",
+                "versionNumber": "1.2.0+9.crestron",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/gingco_1.2.9.17.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/gingco-hash.txt",
+                "fileType": "apk",
+                "packageName": "net.gingco.display",
+                "versionNumber": "1.2.9.17",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.37.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.gobright.brightbooking.display",
+                "versionNumber": "14.37",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/wallpad_version.txt",
+                "fileType": "apk",
+                "packageName": "com.plantym.b2b.hyundai.wallpad",
+                "versionNumber": "1.2.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/indoor_finders_v9.5.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/indoor_finders-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.indoorfinders.rducrestron",
+                "versionNumber": "9.5.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Hummingbird-7_6_2.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/ioffice-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.iofficecorp.OpenSpace",
+                "versionNumber": "7.6.2",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/KardhamDigital.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kardhamdigital-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.idm.viadirect.crestron",
+                "versionNumber": "1.0-crestron.viadirect.com",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Korbyt_1_3.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/korbyt-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.korbyt",
+                "versionNumber": "1.01.003",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/kuiqmeeting-1_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kuiqmeeting-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.kuiqmeeting",
+                "versionNumber": "1.0c",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/matrix-signage-1.10.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/matrix-signage-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.matrixbooking.signage",
+                "versionNumber": "1.10.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Meeting4Display_Crestron_3_2_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.telelogos.meeting4display",
+                "versionNumber": "3.2.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/NFS-RoomDisplay-v3.1.27.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nfs-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.NFSPanel",
+                "versionNumber": "3.1.27",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/nw-display-4.0.6-as-3.0.24.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/newwave-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.newwaveapps.schedulerdisplay",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Nexudus-1_2_17.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nexudus-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.nexudusspacescheckin",
+                "versionNumber": "1.2.17",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oss-crestron-1.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/officespace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.officespacesoftware.roomscreen",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "modeName": "ORO",
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
+                "fileType": "apk",
+                "packageName": "cc.oro.app",
+                "versionNumber": "1.1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PADS4-1_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.pads4.viewer.crestron",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PepperDash_1_01.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pepperdash-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.pepperdash.roomsignage",
+                "versionNumber": "1.0.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/RobinRooms-Crestron-v4.2.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/robin-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.robinpowered.rooms",
+                "versionNumber": "4.2.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_proxy-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sharingcloud.proxy",
+                "versionNumber": "4.19.6s",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_player-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sharingcloud.player",
+                "versionNumber": "1.16",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceiq-release.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceiq-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.meetings.spaceiq",
+                "versionNumber": "0.0.3",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Spaceconnect_432.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceconnect-hash.txt",
+                "fileType": "apk",
+                "packageName": "co.spaceconnect.apppanel",
+                "versionNumber": "4.3.2",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eventboard-v2.20.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eventBoard-hash.txt",
+                "fileType": "apk",
+                "packageName": "enderlabs.eventboardandroid.custom",
+                "versionNumber": "2.20.0-b4957c47",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_6_5.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
+                "fileType": "apk",
+                "packageName": "us.partner.zoom.zrc",
+                "versionNumber": "6.6.5.4359",
+                "downgradeable": false
+            }
+        ]
+    },
+    {
+        "deviceModel": "TS*1070",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/MonochromePublic.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.blackbird",
+                "versionNumber": "1.2.3.133",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.generalweb",
+                "versionNumber": "1.02.017",
+                "downgradeable": false
+            },
+	    {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronwebview_3_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_webview-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.webview",
+                "versionNumber": "3.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/22miles_5_4_40226.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/22miles-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.miles22.adsign",
+                "versionNumber": "5.4.40226",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.appspace.app",
+                "versionNumber": "2.91.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/askcody_v1.3.1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/askcody-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.goaskcody.signage",
+                "versionNumber": "1.3.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/DelosDarwinPremier0.103.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_50_7.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.door_tablet.doors",
+                "versionNumber": "10.50.7",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/dsclient_4.4.1008.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/dsclient-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.addonproducts.dssclient",
+                "versionNumber": "4.4.1008",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/envoy_v1_2_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.envoy.rooms.crestron",
+                "versionNumber": "1.2.0+9.crestron",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/gingco_1.2.9.17.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/gingco-hash.txt",
+                "fileType": "apk",
+                "packageName": "net.gingco.display",
+                "versionNumber": "1.2.9.17",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.37.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.gobright.brightbooking.display",
+                "versionNumber": "14.37",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/wallpad_version.txt",
+                "fileType": "apk",
+                "packageName": "com.plantym.b2b.hyundai.wallpad",
+                "versionNumber": "1.2.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/indoor_finders_v9.5.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/indoor_finders-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.indoorfinders.rducrestron",
+                "versionNumber": "9.5.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Hummingbird-7_6_2.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/ioffice-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.iofficecorp.OpenSpace",
+                "versionNumber": "7.6.2",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/KardhamDigital.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kardhamdigital-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.idm.viadirect.crestron",
+                "versionNumber": "1.0-crestron.viadirect.com",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Korbyt_1_3.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/korbyt-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.korbyt",
+                "versionNumber": "1.01.003",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/kuiqmeeting-1_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kuiqmeeting-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.kuiqmeeting",
+                "versionNumber": "1.0c",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/matrix-signage-1.10.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/matrix-signage-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.matrixbooking.signage",
+                "versionNumber": "1.10.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Meeting4Display_Crestron_3_2_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.telelogos.meeting4display",
+                "versionNumber": "3.2.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/NFS-RoomDisplay-v3.1.27.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nfs-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.NFSPanel",
+                "versionNumber": "3.1.27",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/nw-display-4.0.6-as-3.0.24.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/newwave-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.newwaveapps.schedulerdisplay",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Nexudus-1_2_17.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nexudus-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.nexudusspacescheckin",
+                "versionNumber": "1.2.17",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oss-crestron-1.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/officespace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.officespacesoftware.roomscreen",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "modeName": "ORO",
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
+                "fileType": "apk",
+                "packageName": "cc.oro.app",
+                "versionNumber": "1.1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PADS4-1_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.pads4.viewer.crestron",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PepperDash_1_01.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pepperdash-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.pepperdash.roomsignage",
+                "versionNumber": "1.0.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/RobinRooms-Crestron-v4.2.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/robin-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.robinpowered.rooms",
+                "versionNumber": "4.2.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_proxy-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sharingcloud.proxy",
+                "versionNumber": "4.19.6s",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_player-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sharingcloud.player",
+                "versionNumber": "1.16",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceiq-release.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceiq-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.meetings.spaceiq",
+                "versionNumber": "0.0.3",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Spaceconnect_432.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceconnect-hash.txt",
+                "fileType": "apk",
+                "packageName": "co.spaceconnect.apppanel",
+                "versionNumber": "4.3.2",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eventboard-v2.20.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eventBoard-hash.txt",
+                "fileType": "apk",
+                "packageName": "enderlabs.eventboardandroid.custom",
+                "versionNumber": "2.20.0-b4957c47",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_6_5.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
+                "fileType": "apk",
+                "packageName": "us.partner.zoom.zrc",
+                "versionNumber": "6.6.5.4359",
+                "downgradeable": false
+            }
+        ]
+    },
+    {
+        "deviceModel": "TS*770",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/MonochromePublic.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.blackbird",
+                "versionNumber": "1.2.3.133",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.generalweb",
+                "versionNumber": "1.02.017",
+                "downgradeable": false
+            },
+	    {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronwebview_3_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_webview-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.webview",
+                "versionNumber": "3.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/22miles_5_4_40226.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/22miles-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.miles22.adsign",
+                "versionNumber": "5.4.40226",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.appspace.app",
+                "versionNumber": "2.91.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/askcody_v1.3.1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/askcody-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.goaskcody.signage",
+                "versionNumber": "1.3.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/DelosDarwinPremier0.103.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/door-tablet-cre_10_50_7.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/doortablet-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.door_tablet.doors",
+                "versionNumber": "10.50.7",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/dsclient_4.4.1008.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/dsclient-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.addonproducts.dssclient",
+                "versionNumber": "4.4.1008",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/envoy_v1_2_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/envoy-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.envoy.rooms.crestron",
+                "versionNumber": "1.2.0+9.crestron",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/gingco_1.2.9.17.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/gingco-hash.txt",
+                "fileType": "apk",
+                "packageName": "net.gingco.display",
+                "versionNumber": "1.2.9.17",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/crestronFull-14.37.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronFull-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.gobright.brightbooking.display",
+                "versionNumber": "14.37",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Wallpad_v1.2.1_19.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/wallpad_version.txt",
+                "fileType": "apk",
+                "packageName": "com.plantym.b2b.hyundai.wallpad",
+                "versionNumber": "1.2.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/indoor_finders_v9.5.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/indoor_finders-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.indoorfinders.rducrestron",
+                "versionNumber": "9.5.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Hummingbird-7_6_2.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/ioffice-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.iofficecorp.OpenSpace",
+                "versionNumber": "7.6.2",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/KardhamDigital.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kardhamdigital-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.idm.viadirect.crestron",
+                "versionNumber": "1.0-crestron.viadirect.com",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Korbyt_1_3.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/korbyt-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.korbyt",
+                "versionNumber": "1.01.003",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/kuiqmeeting-1_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/kuiqmeeting-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.kuiqmeeting",
+                "versionNumber": "1.0c",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/matrix-signage-1.10.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/matrix-signage-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.matrixbooking.signage",
+                "versionNumber": "1.10.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Meeting4Display_Crestron_3_2_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.telelogos.meeting4display",
+                "versionNumber": "3.2.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/NFS-RoomDisplay-v3.1.27.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nfs-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.NFSPanel",
+                "versionNumber": "3.1.27",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/nw-display-4.0.6-as-3.0.24.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/newwave-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.newwaveapps.schedulerdisplay",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Nexudus-1_2_17.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/nexudus-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.nexudusspacescheckin",
+                "versionNumber": "1.2.17",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oss-crestron-1.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/officespace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.officespacesoftware.roomscreen",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "modeName": "ORO",
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
+                "fileType": "apk",
+                "packageName": "cc.oro.app",
+                "versionNumber": "1.1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PADS4-1_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pads4-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.pads4.viewer.crestron",
+                "versionNumber": "1.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/PepperDash_1_01.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/pepperdash-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.pepperdash.roomsignage",
+                "versionNumber": "1.0.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/RobinRooms-Crestron-v4.2.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/robin-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.robinpowered.rooms",
+                "versionNumber": "4.2.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_proxy-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sharingcloud.proxy",
+                "versionNumber": "4.19.6s",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/sharingcloud_player-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.sharingcloud.player",
+                "versionNumber": "1.16",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceiq-release.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceiq-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.meetings.spaceiq",
+                "versionNumber": "0.0.3",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Spaceconnect_432.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceconnect-hash.txt",
+                "fileType": "apk",
+                "packageName": "co.spaceconnect.apppanel",
+                "versionNumber": "4.3.2",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eventboard-v2.20.0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eventBoard-hash.txt",
+                "fileType": "apk",
+                "packageName": "enderlabs.eventboardandroid.custom",
+                "versionNumber": "2.20.0-b4957c47",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/zrc_6_6_5.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/zoomscheduling-hash.txt",
+                "fileType": "apk",
+                "packageName": "us.partner.zoom.zrc",
+                "versionNumber": "6.6.5.4359",
+                "downgradeable": false
+            }
+        ]
+    },
+    {
+        "deviceModel": "TS*R",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/MonochromePublic.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.blackbird",
+                "versionNumber": "1.2.3.133",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/DelosDarwinPremier0.103.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1",
+                "downgradeable": false
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-570",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/MonochromePublic.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.blackbird",
+                "versionNumber": "1.2.3.133",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.appspace.app",
+                "versionNumber": "2.91.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/DelosDarwinPremier0.103.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1",
+                "downgradeable": false
+            }
+        ]
+    },
+    {
+        "deviceModel": "TSW-570P",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/MonochromePublic.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/chromium-hash.txt",
+                "fileType": "apk",
+                "packageName": "org.chromium.chrome",
+                "versionNumber": "100.0.4896.79",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.blackbird",
+                "versionNumber": "1.2.3.133",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.crestron.phoenix.touchscreen",
+                "versionNumber": "4.8.10",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
+                "fileType": "apk",
+                "packageName": "com.appspace.app",
+                "versionNumber": "2.91.0",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/DelosDarwinPremier0.103.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/delos-darwin-premier.txt",
+                "fileType": "apk",
+                "packageName": "com.delos.darwinPremier",
+                "versionNumber": "0.0.103",
+                "downgradeable": false
+            },
+            {
+                "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/sonos_16_1.zip",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/sonosapks/sonos_version.txt",
+                "fileType": "apk",
+                "packageName": "com.sonos.acr2",
+                "versionNumber": "16.1",
+                "downgradeable": false
+            }
+        ]
+    }
 ]

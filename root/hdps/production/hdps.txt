@@ -1,12 +1,12 @@
 [
-	{
-        "deviceModel": "HD-PS*",
-        "filesToUpdate": [
-            {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00074.puf",
-                "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/hdps/production/hdps_version.txt",
-                "fileType": "firmware"
-            }
-        ]
-    }
+{
+"deviceModel": "HD-PS*",
+"filesToUpdate": [
+{
+"fileUrl": "https://devicefiles.crestron.io/firmware/hd-ps401_hd-ps402_hd-ps621_hd-ps622_1.4.4790.00075.puf",
+"fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/hdps/production/hdps_version.txt",
+"fileType": "firmware"
+}
+]
+}
 ]
