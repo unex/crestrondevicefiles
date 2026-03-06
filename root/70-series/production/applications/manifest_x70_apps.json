@@ -11,12 +11,12 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_139.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.139",
-        "downgradeable": false
+        "versionNumber": "1.2.3.133",
+        "downgradeable": true
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
@@ -313,12 +313,12 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_139.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.139",
-        "downgradeable": false
+        "versionNumber": "1.2.3.133",
+        "downgradeable": true
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
@@ -615,12 +615,12 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_139.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.139",
-        "downgradeable": false
+        "versionNumber": "1.2.3.133",
+        "downgradeable": true
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
@@ -917,12 +917,12 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_139.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.139",
-        "downgradeable": false
+        "versionNumber": "1.2.3.133",
+        "downgradeable": true
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
@@ -962,12 +962,12 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_139.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.139",
-        "downgradeable": false
+        "versionNumber": "1.2.3.133",
+        "downgradeable": true
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",
@@ -1015,12 +1015,12 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_139.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/h5display_1_2_3_133.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.139",
-        "downgradeable": false
+        "versionNumber": "1.2.3.133",
+        "downgradeable": true
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.8.10.zip",

@@ -145,6 +145,7 @@ apps/DGE-1000/ch_dge_1000_4_5_32.apk
 apps/DGE-1000/ch_dge_1000_4_6_15.apk
 apps/DGE-1000/ch_dge_1000_4_6_18.zip
 apps/DGE-1000/ch_dge_1000_4_7_9.zip
+apps/DGE-1000/h5display_1_2_3_133.zip
 apps/DGE-1000/h5display_1_2_3_139.zip
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
@@ -154,6 +155,7 @@ apps/NFS-RoomDisplay-v3.1.27.apk
 apps/RobinRooms-Crestron-v4.1.3.apk
 apps/RobinRooms-Crestron-v4.2.0.apk
 apps/Spaceconnect/Spaceconnect_432.apk
+apps/TST-1080/h5display_1_2_3_133.zip
 apps/TST-1080/h5display_1_2_3_139.zip
 apps/TeamsRoom-1449_1.0.96.2024020802.apk
 apps/Wallpad_v1.2.1_19.apk
