@@ -10,11 +10,11 @@
         "versionNumber": "16.1"
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/h5display_1_2_3_133.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/h5display_1_2_3_142.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dge-1000/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.133",
+        "versionNumber": "1.2.3.142",
         "downgradeable": true
       },
       {

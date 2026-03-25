@@ -3,19 +3,19 @@
     "deviceModel": "TST-1080",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/zrc_6_6_5.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/zrc_6_7_5.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/applications/zoomscheduling-hash.txt",
         "fileType": "apk",
         "packageName": "us.partner.zoom.zrc",
-        "versionNumber": "6.6.5.4359",
+        "versionNumber": "6.7.5.4692",
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/TST-1080/h5display_1_2_3_133.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/TST-1080/h5display_1_2_3_142.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tst-1080/production/applications/blackbird-hash.txt",
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
-        "versionNumber": "1.2.3.133",
+        "versionNumber": "1.2.3.142",
         "downgradeable": true
       },
       {

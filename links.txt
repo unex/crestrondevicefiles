@@ -113,6 +113,7 @@ apps/70-Series/Signed/eventboard-v2.20.0.zip
 apps/70-Series/Signed/gingco_1.2.9.17.zip
 apps/70-Series/Signed/h5display_1_2_3_133.zip
 apps/70-Series/Signed/h5display_1_2_3_139.zip
+apps/70-Series/Signed/h5display_1_2_3_142.zip
 apps/70-Series/Signed/indoor_finders_v9.5.0.zip
 apps/70-Series/Signed/kuiqmeeting-1_0.zip
 apps/70-Series/Signed/matrix-signage-1.10.0.zip
@@ -126,6 +127,7 @@ apps/70-Series/Signed/spaceiq-release.zip
 apps/70-Series/Signed/zrc_6_3_5.zip
 apps/70-Series/Signed/zrc_6_5_5.zip
 apps/70-Series/Signed/zrc_6_6_5.zip
+apps/70-Series/Signed/zrc_6_7_5.zip
 apps/CH_TST_4.4.18.apk
 apps/CH_TST_4.5.32.apk
 apps/CH_TST_4.6.15.apk
@@ -147,6 +149,7 @@ apps/DGE-1000/ch_dge_1000_4_6_18.zip
 apps/DGE-1000/ch_dge_1000_4_7_9.zip
 apps/DGE-1000/h5display_1_2_3_133.zip
 apps/DGE-1000/h5display_1_2_3_139.zip
+apps/DGE-1000/h5display_1_2_3_142.zip
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
 apps/MTRA_2.6.3_Microsoft-Teams-2025090901-ARM64.apk
@@ -157,6 +160,7 @@ apps/RobinRooms-Crestron-v4.2.0.apk
 apps/Spaceconnect/Spaceconnect_432.apk
 apps/TST-1080/h5display_1_2_3_133.zip
 apps/TST-1080/h5display_1_2_3_139.zip
+apps/TST-1080/h5display_1_2_3_142.zip
 apps/TeamsRoom-1449_1.0.96.2024020802.apk
 apps/Wallpad_v1.2.1_19.apk
 apps/appspace-2_78_2.apk
@@ -186,6 +190,7 @@ apps/zrc_6_3_5.apk
 apps/zrc_6_3_5.zip
 apps/zrc_6_5_5.zip
 apps/zrc_6_6_5.zip
+apps/zrc_6_7_5.zip
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/AVFsetupprogram_7.0001.0001.nik
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0001.0001/manifest_7.0001.0001.hash
 avf-device-release/AVF_PRO_Autoupdate/4series/7.0100.0005/AVFsetupprogram_7.0100.0005.nik
