@@ -110,6 +110,7 @@ apps/70-Series/Signed/door-tablet-cre_10_11_5.zip
 apps/70-Series/Signed/door-tablet-cre_10_50_7.zip
 apps/70-Series/Signed/dsclient_4.4.1008.zip
 apps/70-Series/Signed/envoy_v1_2_0.zip
+apps/70-Series/Signed/envoy_v1_6_1.zip
 apps/70-Series/Signed/eventboard-v2.20.0.zip
 apps/70-Series/Signed/gingco_1.2.9.17.zip
 apps/70-Series/Signed/h5display_1_2_3_133.zip
