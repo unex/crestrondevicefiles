@@ -16,7 +16,7 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
-        "downgradeable": true
+        "downgradeable": false
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
@@ -96,6 +96,15 @@
         "fileType": "apk",
         "packageName": "com.envoy.rooms.crestron",
         "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+	  {
+        "modeName": "Eptura_Room_Screen",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
         "downgradeable": false
       },
       {
@@ -318,7 +327,7 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
-        "downgradeable": true
+        "downgradeable": false
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
@@ -398,6 +407,15 @@
         "fileType": "apk",
         "packageName": "com.envoy.rooms.crestron",
         "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+	  {
+        "modeName": "Eptura_Room_Screen",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
         "downgradeable": false
       },
       {
@@ -620,7 +638,7 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
-        "downgradeable": true
+        "downgradeable": false
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
@@ -700,6 +718,15 @@
         "fileType": "apk",
         "packageName": "com.envoy.rooms.crestron",
         "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+	  {
+        "modeName": "Eptura_Room_Screen",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
         "downgradeable": false
       },
       {
@@ -922,7 +949,7 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
-        "downgradeable": true
+        "downgradeable": false
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
@@ -967,7 +994,7 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
-        "downgradeable": true
+        "downgradeable": false
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
@@ -1020,7 +1047,7 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
-        "downgradeable": true
+        "downgradeable": false
       },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
