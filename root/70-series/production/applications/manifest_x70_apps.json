@@ -292,6 +292,15 @@
         "versionNumber": "4.3.2",
         "downgradeable": false
       },
+	  {
+        "modeName": "Spaceti",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceti-2_16_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.16.0",
+        "downgradeable": false
+      },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eventboard-v2.20.0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eventBoard-hash.txt",
@@ -603,6 +612,15 @@
         "versionNumber": "4.3.2",
         "downgradeable": false
       },
+	  {
+        "modeName": "Spaceti",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceti-2_16_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.16.0",
+        "downgradeable": false
+      },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eventboard-v2.20.0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eventBoard-hash.txt",
@@ -912,6 +930,15 @@
         "fileType": "apk",
         "packageName": "co.spaceconnect.apppanel",
         "versionNumber": "4.3.2",
+        "downgradeable": false
+      },
+	  {
+        "modeName": "Spaceti",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceti-2_16_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.16.0",
         "downgradeable": false
       },
       {

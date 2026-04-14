@@ -38,6 +38,7 @@
 70-series/production/applications/sharingcloud_proxy-hash.txt
 70-series/production/applications/spaceconnect-hash.txt
 70-series/production/applications/spaceiq-hash.txt
+70-series/production/applications/spaceti-hash.txt
 70-series/production/applications/wallpad_version.txt
 70-series/production/applications/zoomscheduling-hash.txt
 70-series/production/firmware/manifest_x70_firmware.json
@@ -128,6 +129,7 @@ apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip
 apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip
 apps/70-Series/Signed/sonos_16_1.zip
 apps/70-Series/Signed/spaceiq-release.zip
+apps/70-Series/Signed/spaceti-2_16_0.zip
 apps/70-Series/Signed/zrc_6_3_5.zip
 apps/70-Series/Signed/zrc_6_5_5.zip
 apps/70-Series/Signed/zrc_6_6_5.zip
@@ -171,6 +173,7 @@ apps/TeamsRoom-1449_1.0.96.2024020802.apk
 apps/Wallpad_v1.2.1_19.apk
 apps/appspace-2_78_2.apk
 apps/appspace-2_79_0.apk
+apps/appspace-2_94_0.zip
 apps/appspace_2_67_0.apk
 apps/appspace_2_76_0.apk
 apps/appspace_2_79_0.apk
