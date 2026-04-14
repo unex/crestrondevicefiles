@@ -98,7 +98,7 @@
         "versionNumber": "1.6.1.crestron",
         "downgradeable": false
       },
-	  {
+      {
         "modeName": "Eptura_Room_Screen",
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eptura-1_0_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eptura-hash.txt",
@@ -179,6 +179,34 @@
         "versionNumber": "1.10.0",
         "downgradeable": false
       },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_intune-24_09_1.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_intune-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.intune.aospagent",
+		"versionNumber": "24.09.1"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_authenticator-6_2410_7268.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_authenticator-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.azure.authenticator",
+		"versionNumber": "6.2410.7268"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_adminagent-753.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_adminagent-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.teams.ipphone.admin.agent",
+		"versionNumber": "1.0.0.202412110504.product"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_teamspanel-3_3_2.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_teamspanel-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.skype.teams.ipphone",
+		"versionNumber": "1449/1.0.97.2025031901"
+	  },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Meeting4Display_Crestron_3_2_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
@@ -292,7 +320,7 @@
         "versionNumber": "4.3.2",
         "downgradeable": false
       },
-	  {
+      {
         "modeName": "Spaceti",
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceti-2_16_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceti-hash.txt",
@@ -418,7 +446,7 @@
         "versionNumber": "1.6.1.crestron",
         "downgradeable": false
       },
-	  {
+      {
         "modeName": "Eptura_Room_Screen",
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eptura-1_0_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eptura-hash.txt",
@@ -499,6 +527,34 @@
         "versionNumber": "1.10.0",
         "downgradeable": false
       },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_intune-24_09_1.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_intune-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.intune.aospagent",
+		"versionNumber": "24.09.1"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_authenticator-6_2410_7268.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_authenticator-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.azure.authenticator",
+		"versionNumber": "6.2410.7268"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_adminagent-753.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_adminagent-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.teams.ipphone.admin.agent",
+		"versionNumber": "1.0.0.202412110504.product"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_teamspanel-3_3_2.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_teamspanel-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.skype.teams.ipphone",
+		"versionNumber": "1449/1.0.97.2025031901"
+	  },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Meeting4Display_Crestron_3_2_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
@@ -612,7 +668,7 @@
         "versionNumber": "4.3.2",
         "downgradeable": false
       },
-	  {
+      {
         "modeName": "Spaceti",
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceti-2_16_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceti-hash.txt",
@@ -738,7 +794,7 @@
         "versionNumber": "1.6.1.crestron",
         "downgradeable": false
       },
-	  {
+      {
         "modeName": "Eptura_Room_Screen",
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/eptura-1_0_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/eptura-hash.txt",
@@ -819,6 +875,34 @@
         "versionNumber": "1.10.0",
         "downgradeable": false
       },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_intune-24_09_1.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_intune-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.intune.aospagent",
+		"versionNumber": "24.09.1"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_authenticator-6_2410_7268.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_authenticator-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.azure.authenticator",
+		"versionNumber": "6.2410.7268"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_adminagent-753.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_adminagent-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.teams.ipphone.admin.agent",
+		"versionNumber": "1.0.0.202412110504.product"
+	  },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/msft_teamspanel-3_3_2.zip",
+		"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/msft_teamspanel-hash.txt",
+		"fileType": "apk",
+		"packageName": "com.microsoft.skype.teams.ipphone",
+		"versionNumber": "1449/1.0.97.2025031901"
+	  },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Meeting4Display_Crestron_3_2_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/meeting4display-hash.txt",
@@ -932,7 +1016,7 @@
         "versionNumber": "4.3.2",
         "downgradeable": false
       },
-	  {
+      {
         "modeName": "Spaceti",
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/spaceti-2_16_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/spaceti-hash.txt",
@@ -1023,6 +1107,14 @@
         "versionNumber": "1.2.3.142",
         "downgradeable": false
       },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.generalweb",
+        "versionNumber": "1.02.017",
+        "downgradeable": false
+      },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/CH_TSW70_4.10.4.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestronhome-hash.txt",
@@ -1074,6 +1166,14 @@
         "fileType": "apk",
         "packageName": "com.crestron.blackbird",
         "versionNumber": "1.2.3.142",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/crestron_general_web-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.generalweb",
+        "versionNumber": "1.02.017",
         "downgradeable": false
       },
       {
