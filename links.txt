@@ -132,6 +132,7 @@ apps/70-Series/Signed/msft_intune-24_09_1.zip
 apps/70-Series/Signed/msft_teamspanel-3_3_2.zip
 apps/70-Series/Signed/nw-display-4.0.6-as-3.0.24.zip
 apps/70-Series/Signed/oro-1.1.0.zip
+apps/70-Series/Signed/oro-1_3_0.zip
 apps/70-Series/Signed/oss-crestron-1.0.zip
 apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip
 apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip

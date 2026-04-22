@@ -249,11 +249,11 @@
       },
       {
         "modeName": "ORO",
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1_3_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
         "fileType": "apk",
         "packageName": "cc.oro.app",
-        "versionNumber": "1.1.0",
+        "versionNumber": "1.3.0",
         "downgradeable": false
       },
       {
@@ -597,11 +597,11 @@
       },
       {
         "modeName": "ORO",
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1_3_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
         "fileType": "apk",
         "packageName": "cc.oro.app",
-        "versionNumber": "1.1.0",
+        "versionNumber": "1.3.0",
         "downgradeable": false
       },
       {
@@ -945,11 +945,11 @@
       },
       {
         "modeName": "ORO",
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1.1.0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/oro-1_3_0.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/oro-hash.txt",
         "fileType": "apk",
         "packageName": "cc.oro.app",
-        "versionNumber": "1.1.0",
+        "versionNumber": "1.3.0",
         "downgradeable": false
       },
       {
