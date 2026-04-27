@@ -316,6 +316,7 @@ mercury/mercury10_3_version.txt
 mercury/mercury_version.txt
 nax-firmware/btio-hash.txt
 nax-firmware/dm-nax-4zsa_1.0.0205.18120_r541353.zip
+nax-firmware/dm-nax-4zsa_3.1.0139.11201_r590815.zip
 nax-firmware/gemini.txt
 nax-firmware/gemini_hash.txt
 nax-firmware/nax-edge-hash.txt
