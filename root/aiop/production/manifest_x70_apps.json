@@ -3,11 +3,39 @@
     "deviceModel": "TS*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/aiop/production/zrc_6.5.5.3902.apk",
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/MTRA_2.8.0_Microsoft-Teams-2025421910-ARM64.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/teams-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.microsoft.skype.teams.ipphone",
+        "versionNumber": "1449/1.0.96.2025421910"
+      },
+	        {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Authenticator_6.2512.8111.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Authenticator-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.azure.authenticator",
+        "versionNumber": "6.2512.8111"
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Microsoft-IPPhone-Admin-Agent-product-803.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/adminagent-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.microsoft.teams.ipphone.admin.agent",
+        "versionNumber": "1.0.0.202511230136"
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Microsoft_Intune_25.02.1.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/intune-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.microsoft.intune.aospagent",
+        "versionNumber": "25.02.1"
+      },
+	  {
+		"fileUrl": "https://devicefiles.crestron.io/aiop/production/zrc_6.7.5.4692.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/production/version-apk-x70.txt",
         "fileType": "apk",
         "packageName": "us.partner.zoom.zrc",
-        "versionNumber": "6.5.5.3902"
+        "versionNumber": "6.7.5.4692"
       },
       {
         "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/MonochromePublic.apk",
@@ -17,5 +45,5 @@
         "versionNumber": "100.0.4896.79"
       }
     ]
-  }
-]
+ }
+ ]
