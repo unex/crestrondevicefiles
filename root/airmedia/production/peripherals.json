@@ -3,7 +3,7 @@
         "deviceModel": "TX3-100",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.1.1.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.2.1.9.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
                 "fileType": "peripheral"
             }
@@ -13,7 +13,7 @@
         "deviceModel": "TX3-200",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.1.1.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am-tx3_AU_2.2.1.9.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/TX3_version.txt",
                 "fileType": "peripheral"
             }

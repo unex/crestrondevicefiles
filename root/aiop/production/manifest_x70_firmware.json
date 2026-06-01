@@ -9,10 +9,10 @@
 				"versionNumber": "2.005.1136.001"
 			},
 			{
-				"fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.005.1136.001.puf",
+				"fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_3.002.1069.001.puf",
 				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/production/tsw-xx70_version.txt",
 				"fileType": "firmware-FlexTeams",
-				"versionNumber": "2.005.1136.001"			
+				"versionNumber": "3.002.1069.001"			
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx70_2.005.1136.001.puf",

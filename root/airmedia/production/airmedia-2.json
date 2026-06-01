@@ -3,8 +3,8 @@
         "deviceModel": "AM-3000-WF*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0800.0157.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0128.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -13,8 +13,8 @@
         "deviceModel": "AM-3100-WF*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0800.0157.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0128.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -23,8 +23,8 @@
         "deviceModel": "AM-3200",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0800.0157.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0800.0128.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -33,8 +33,8 @@
         "deviceModel": "AM-3200-WF*",
         "filesToUpdate": [
             {
-                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0800.0157.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
+                "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0128.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
                 "fileType": "firmware"
             }
         ]

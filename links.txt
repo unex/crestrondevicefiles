@@ -254,10 +254,13 @@ dmps3omap/dmps3omap.txt
 firmware/am-tx3-100_AU_1.0.1.160.zip
 firmware/am-tx3_AU_2.0.1.2.zip
 firmware/am-tx3_AU_2.1.1.17.zip
+firmware/am-tx3_AU_2.2.1.9.zip
 firmware/am3xxx_3.0600.0079.puf
 firmware/am3xxx_3.0700.0379.puf
 firmware/am3xxx_3.0700.0433.puf
+firmware/am3xxx_3.0800.0128.puf
 firmware/am3xxx_3.0800.0157.puf
+firmware/am3xxx_3.0900.0128.puf
 firmware/amps_1.4499.00020.001.puf
 firmware/amps_1.5670.00003.001.puf
 firmware/dge-1000_1.0001.00050.puf
@@ -299,10 +302,12 @@ firmware/tsw-xx70_2.005.1136.001.puf
 firmware/tsw-xx70_2.006.0054.001.puf
 firmware/tsw-xx70_3.002.0040.001.puf
 firmware/tsw-xx70_3.002.0043.001.puf
+firmware/tsw-xx70_3.002.1069.001.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf
 firmware/uc-sb2-cam-a_1.241106.1472.puf
 firmware/uc-sb2-cam-a_1.3-user_1.300000.1685.puf
+firmware/uc-sb2-cam-a_user_3.0.4513.puf
 firmware/uc2fw-1.0.7.35.bin
 firmware/uc2fw-1.0.7.65.bin
 firmware/usb-sw_1.000.5670.00019.zip

@@ -3,18 +3,39 @@
     "deviceModel": "UC-SB2-CAM-A*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.5.5.7566_product.apk",
+        "fileUrl": "https://firmwareupload.blob.core.windows.net/apps/ZR_6.7.5.9146_product.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/version-apk.txt",
         "fileType": "apk",
         "packageName": "us.zoom.zoompresence",
-        "versionNumber": "6.5.5.7566"
+        "versionNumber": "6.7.5.9146"
       },
       {
-        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/MTRA_2.6.3_Microsoft-Teams-2025090901-ARM64.apk",
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/MTRA_2.8.0_Microsoft-Teams-2025421910-ARM64.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/teams-version-apk.txt",
         "fileType": "apk",
         "packageName": "com.microsoft.skype.teams.ipphone",
-        "versionNumber": "1449/1.0.96.2025223801"
+        "versionNumber": "1449/1.0.96.2025421910"
+      },
+	        {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Authenticator_6.2512.8111.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Authenticator-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.azure.authenticator",
+        "versionNumber": "6.2512.8111"
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Microsoft-IPPhone-Admin-Agent-product-803.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/adminagent-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.microsoft.teams.ipphone.admin.agent",
+        "versionNumber": "1.0.0.202511230136"
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Microsoft_Intune_25.02.1.apk",
+        "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/intune-version-apk.txt",
+        "fileType": "apk",
+        "packageName": "com.microsoft.intune.aospagent",
+        "versionNumber": "25.02.1"
       },
       {
         "packageName": "com.huddly.iqupgrader",
