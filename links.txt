@@ -78,6 +78,7 @@ aiop/production/zrc_6.7.5.4692.apk
 aiop/production/zrc_6_3_5.apk
 aiop/teams-version-apk.txt
 aiop/version-apk.txt
+aiop/version-teams.txt
 aiop/version.txt
 airmedia/production/TX3_version.txt
 airmedia/production/airmedia-2.json

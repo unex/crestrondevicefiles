@@ -10,7 +10,7 @@
 			},
 			{
 				"fileUrl": "https://devicefiles.crestron.io/firmware/uc-sb2-cam-a_user_3.0.4513.puf",
-				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version.txt",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/version-teams.txt",
 				"fileType": "firmware-Teams",
 				"versionNumber": "3.0.4513"			
 			},
