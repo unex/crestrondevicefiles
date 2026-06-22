@@ -304,6 +304,7 @@ firmware/tsw-xx70_2.006.0054.001.puf
 firmware/tsw-xx70_3.002.0040.001.puf
 firmware/tsw-xx70_3.002.0043.001.puf
 firmware/tsw-xx70_3.002.1069.001.puf
+firmware/tsw-xx70_3.003.0020.002.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf
 firmware/uc-sb2-cam-a_1.241106.1472.puf
