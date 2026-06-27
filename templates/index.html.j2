@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crestron Device Files</title>
+<style>
+  body { font-family: ui-monospace, "SF Mono", "Cascadia Code", "Consolas", monospace; margin: 2rem; background: #0f1115; color: #e6e6e6; }
+  h1 { font-size: 1.4rem; }
+  .meta { color: #9aa0a6; margin-bottom: 1rem; }
+  .controls { display: flex; gap: 1rem; margin-bottom: 1rem; align-items: center; }
+  input[type="search"] { padding: 0.4rem 0.6rem; flex: 1; max-width: 400px; background: #1b1e24; color: #e6e6e6; border: 1px solid #333; border-radius: 4px; }
+  button { padding: 0.4rem 0.8rem; background: #1b1e24; color: #e6e6e6; border: 1px solid #333; border-radius: 4px; cursor: pointer; }
+  button:hover { background: #262a32; }
+  button.active { background: #3a3020; border-color: #6b5a1f; }
+
+  ul.tree-children { list-style: none; margin: 0; padding-left: 1.25rem; }
+  #tree { padding-left: 0; }
+  li.folder, li.file { padding: 0.15rem 0.4rem; font-size: 0.9rem; }
+  li.hidden { display: none; }
+  li.row-odd { background: #161920; }
+  li.row-even { background: #0f1115; }
+
+  details > summary { cursor: pointer; }
+  summary::marker { color: #9aa0a6; }
+  summary .count { color: #9aa0a6; font-size: 0.8rem; font-weight: normal; }
+
+  li.file a { color: #8ab4f8; text-decoration: none; word-break: break-all; }
+  li.file a:hover { text-decoration: underline; }
+  li.file .status { margin-left: 0.5rem; font-size: 0.8rem; }
+  li.file.ok .status { color: #4caf50; }
+  li.file.broken .status { color: #f44336; font-weight: 600; }
+
+  @keyframes flash-highlight {
+    from { background: #4a3b00; }
+    to { background: transparent; }
+  }
+  li.highlight > a,
+  li.highlight > details > summary {
+    animation: flash-highlight 2s ease-out;
+  }
+</style>
+</head>
+<body>
+<h1>Crestron Device Files</h1>
+<div class="meta">Generated {{ generated_at }}</div>
+<div class="controls">
+  <input type="search" id="search" placeholder="Filter by path...">
+  <button type="button" id="hide-broken" class="active">Hide broken</button>
+  <button type="button" id="expand-all">Expand all</button>
+  <button type="button" id="collapse-all">Collapse all</button>
+</div>
+
+{% macro render_node(node) %}
+{% for child in node.children %}
+{% if child.type == 'dir' %}
+<li class="folder" id="{{ child.path }}">
+  <details>
+    <summary>{{ child.name }} <span class="count">({{ child.total_count }})</span></summary>
+    <ul class="tree-children">
+      {{ render_node(child) }}
+    </ul>
+  </details>
+</li>
+{% else %}
+{% set r = child.result %}
+<li class="file {{ 'ok' if r.ok else 'broken' }}" id="{{ child.path }}">
+  <a href="{{ r.full_url }}" target="_blank" rel="noopener">{{ child.name }}</a>
+  <span class="status">{{ r.status if r.status is not none else 'ERROR' }}</span>
+</li>
+{% endif %}
+{% endfor %}
+{% endmacro %}
+
+<ul id="tree" class="tree-children">
+{{ render_node(root) }}
+</ul>
+
+<script>
+  const search = document.getElementById('search');
+  const hideBrokenBtn = document.getElementById('hide-broken');
+  const expandAllBtn = document.getElementById('expand-all');
+  const collapseAllBtn = document.getElementById('collapse-all');
+  const tree = document.getElementById('tree');
+  let hideBroken = true;
+
+  function filterNode(li, term, hideBroken) {
+    if (li.classList.contains('file')) {
+      const text = li.textContent.toLowerCase();
+      const matches = text.includes(term) && !(hideBroken && li.classList.contains('broken'));
+      li.classList.toggle('hidden', !matches);
+      return matches;
+    }
+
+    const details = li.querySelector(':scope > details');
+    const childList = details.querySelector(':scope > ul.tree-children');
+    let anyVisible = false;
+    for (const child of childList.children) {
+      if (filterNode(child, term, hideBroken)) anyVisible = true;
+    }
+    li.classList.toggle('hidden', !anyVisible);
+    if (anyVisible && term) details.open = true;
+    return anyVisible;
+  }
+
+  function restripeAll() {
+    for (const ul of document.querySelectorAll('ul.tree-children')) {
+      let i = 0;
+      for (const li of ul.children) {
+        if (li.classList.contains('hidden')) {
+          li.classList.remove('row-odd', 'row-even');
+          continue;
+        }
+        i++;
+        li.classList.toggle('row-odd', i % 2 === 1);
+        li.classList.toggle('row-even', i % 2 === 0);
+      }
+    }
+  }
+
+  function applyFilter() {
+    const term = search.value.toLowerCase();
+    for (const li of tree.children) {
+      filterNode(li, term, hideBroken);
+    }
+    restripeAll();
+  }
+
+  search.addEventListener('input', () => {
+    applyFilter();
+    const term = search.value;
+    const newHash = term ? '#search=' + encodeURIComponent(term) : '';
+    history.replaceState(null, '', location.pathname + location.search + newHash);
+  });
+  hideBrokenBtn.addEventListener('click', () => {
+    hideBroken = !hideBroken;
+    hideBrokenBtn.classList.toggle('active', hideBroken);
+    applyFilter();
+  });
+
+  expandAllBtn.addEventListener('click', () => {
+    for (const details of tree.querySelectorAll('details')) details.open = true;
+  });
+  collapseAllBtn.addEventListener('click', () => {
+    for (const details of tree.querySelectorAll('details')) details.open = false;
+  });
+
+  function expandAndScrollTo(id) {
+    const el = id && document.getElementById(id);
+    if (!el) return;
+
+    // Navigating to a hash target should reveal it even if the current
+    // search/hide-broken filter would otherwise keep it hidden.
+    el.classList.remove('hidden');
+
+    const ownDetails = el.querySelector(':scope > details');
+    if (ownDetails) ownDetails.open = true;
+
+    let ancestor = el.parentElement;
+    while (ancestor) {
+      if (ancestor.tagName === 'LI') ancestor.classList.remove('hidden');
+      if (ancestor.tagName === 'DETAILS') ancestor.open = true;
+      ancestor = ancestor.parentElement;
+    }
+
+    restripeAll();
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    el.classList.remove('highlight');
+    void el.offsetWidth; // restart animation if triggered again
+    el.classList.add('highlight');
+  }
+
+  function handleHash() {
+    if (!location.hash) return;
+    const value = decodeURIComponent(location.hash.slice(1));
+
+    if (value.startsWith('search=')) {
+      search.value = value.slice('search='.length);
+      applyFilter();
+      return;
+    }
+
+    expandAndScrollTo(value);
+  }
+
+  applyFilter();
+
+  window.addEventListener('hashchange', handleHash);
+  handleHash();
+
+  // If an expanded folder only has one visible child, expand it too -
+  // cascades through chains of single-child folders automatically.
+  function cascadeSingleChild(details) {
+    const childList = details.querySelector(':scope > ul.tree-children');
+    if (!childList) return;
+
+    const visible = [...childList.children].filter(li => !li.classList.contains('hidden'));
+    if (visible.length !== 1) return;
+
+    const childDetails = visible[0].querySelector(':scope > details');
+    if (childDetails && !childDetails.open) childDetails.open = true;
+  }
+
+  document.addEventListener('toggle', (e) => {
+    if (e.target.tagName === 'DETAILS' && e.target.open) cascadeSingleChild(e.target);
+  }, true);
+</script>
+</body>
+</html>

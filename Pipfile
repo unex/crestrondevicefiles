@@ -8,6 +8,7 @@ requests = "*"
 backoff = "*"
 tqdm = "*"
 fake-useragent = "*"
+jinja2 = "*"
 
 [dev-packages]
 
@@ -18,3 +19,4 @@ python_version = "3.13"
 app = "python app.py"
 actions = "python app.py --gh-actions"
 download = "python app.py --download"
+check-links = "python check_links.py"
