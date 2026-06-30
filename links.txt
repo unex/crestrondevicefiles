@@ -92,6 +92,7 @@ airmedia/production/peripherals.json
 apps/22miles_5_4_40226.apk
 apps/70-Series/Signed/22miles_5_4_40226.zip
 apps/70-Series/Signed/CH_TSW70_4.10.4.zip
+apps/70-Series/Signed/CH_TSW70_4.11.0.zip
 apps/70-Series/Signed/CH_TSW70_4.6.15.zip
 apps/70-Series/Signed/CH_TSW70_4.6.18.zip
 apps/70-Series/Signed/CH_TSW70_4.7.9.zip
