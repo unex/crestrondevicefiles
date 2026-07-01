@@ -153,6 +153,7 @@ apps/70-Series/Signed/zrc_6_5_5.zip
 apps/70-Series/Signed/zrc_6_6_5.zip
 apps/70-Series/Signed/zrc_6_7_5.zip
 apps/CH_TST_4.10.4.zip
+apps/CH_TST_4.11.0.zip
 apps/CH_TST_4.4.18.apk
 apps/CH_TST_4.5.32.apk
 apps/CH_TST_4.6.15.apk
@@ -164,6 +165,7 @@ apps/CH_TSW70_4.5.32.apk
 apps/CH_TSW70_4.6.15.apk
 apps/Crestron_General_Web_v1.02.017.apk
 apps/DGE-1000/CH_DGE1000_4.10.4.zip
+apps/DGE-1000/CH_DGE1000_4.11.0.zip
 apps/DGE-1000/CH_DGE1000_4.8.10.zip
 apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.17.apk
 apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.25.apk
