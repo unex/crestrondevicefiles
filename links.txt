@@ -314,6 +314,7 @@ firmware/uc-sb2-cam-a_1.2-user_1.250418.1621.puf
 firmware/uc-sb2-cam-a_1.241106.1472.puf
 firmware/uc-sb2-cam-a_1.3-user_1.300000.1685.puf
 firmware/uc-sb2-cam-a_user_3.0.4513.puf
+firmware/uc-sb2-cam-a_user_3.0.4620.puf
 firmware/uc2fw-1.0.7.35.bin
 firmware/uc2fw-1.0.7.65.bin
 firmware/usb-sw_1.000.5670.00019.zip
