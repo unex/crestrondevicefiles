@@ -130,6 +130,7 @@ apps/70-Series/Signed/envoy_v1_6_1.zip
 apps/70-Series/Signed/eptura-1_0_0.zip
 apps/70-Series/Signed/eventboard-v2.20.0.zip
 apps/70-Series/Signed/gingco_1.2.9.17.zip
+apps/70-Series/Signed/h5display-1_3_0_172.zip
 apps/70-Series/Signed/h5display_1_2_3_133.zip
 apps/70-Series/Signed/h5display_1_2_3_139.zip
 apps/70-Series/Signed/h5display_1_2_3_142.zip
