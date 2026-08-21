@@ -219,6 +219,7 @@ apps/korbyt_3_2_3.apk
 apps/korbyt_3_2_6.apk
 apps/korbyt_3_2_9.apk
 apps/newwaveworkspace_1_0_5.apk
+apps/spaceti-2_17_7.zip
 apps/tangoreserve_1_0_14_27.apk
 apps/zrc5.16.5.apk
 apps/zrc_6_1_5.apk
@@ -303,6 +304,7 @@ firmware/tsr-310_2.001.0153.001.puf
 firmware/tsr-310_2.001.0153.001.puf-1.0.0.57.bin
 firmware/tss-470e_2.001.0009.puf
 firmware/tss-470e_2.002.0011.puf
+firmware/tss-470e_2.002.0018.puf
 firmware/tst-1080_1.003.0132.puf
 firmware/tst-1080_1.003.0140.puf
 firmware/tsw-xx60_3.002.1061.001.puf
@@ -368,6 +370,7 @@ tss-470/production/applications/appspace-prod-hash.txt
 tss-470/production/applications/generalweb-prod-hash.txt
 tss-470/production/applications/korbyt-prod-hash.txt
 tss-470/production/applications/newwaveworkspace-prod-hash.txt
+tss-470/production/applications/spaceti-prod-hash.txt
 tss-470/production/applications/tangoreserve-prod-hash.txt
 tss-470/production/applications/tss470_manifest_apps.json
 tss-470/production/firmware/tss-470-version.txt
