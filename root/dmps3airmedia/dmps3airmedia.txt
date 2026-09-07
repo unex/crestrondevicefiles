@@ -1,0 +1,12 @@
+[
+	{
+        "deviceModel": "DMPS3-4K-STR",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/firmware/dmps3-4k-3x0-c_dmps3-4k-2x0-c_airmedia_autoupdate_1.3459.00105.puf",
+                "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/dmps3airmedia/dmps3airmedia_version.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

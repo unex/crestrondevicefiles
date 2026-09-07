@@ -1,0 +1,13 @@
+[
+    {
+		"ControllerHostName": "CP4N**",
+        "deviceModel": "CP4N",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/4series/cp4n_2.8004.00021.01.puf",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/4series/2.8004.00021.txt",
+                "fileType": "firmware"
+            }
+        ]
+    }
+]

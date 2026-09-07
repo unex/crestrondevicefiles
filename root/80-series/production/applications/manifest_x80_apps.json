@@ -1,0 +1,382 @@
+[
+  {
+    "deviceModel": "TS*GV",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/MonochromePublic.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "123.0.6312.80",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.blackbird",
+        "versionNumber": "1.3.0.172",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.11.1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.phoenix.touchscreen",
+        "versionNumber": "4.11.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestron_general_web-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.generalweb",
+        "versionNumber": "1.02.017",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/22miles-5_4_50613.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/22miles-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.miles22.adsign",
+        "versionNumber": "5.4.50613",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileType": "apk",
+        "packageName": "com.appspace.app",
+        "versionNumber": "2.97.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/envoy-1_6_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/envoy-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.envoy.rooms.crestron",
+        "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.plantym.b2b.hyundai.wallpad",
+        "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/spaceti-2_17_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.17.1",
+        "downgradeable": false
+      }
+    ]
+  },
+  {
+    "deviceModel": "TSW-1580",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/MonochromePublic.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "123.0.6312.80",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.blackbird",
+        "versionNumber": "1.3.0.172",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.11.1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.phoenix.touchscreen",
+        "versionNumber": "4.11.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestron_general_web-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.generalweb",
+        "versionNumber": "1.02.017",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/22miles-5_4_50613.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/22miles-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.miles22.adsign",
+        "versionNumber": "5.4.50613",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileType": "apk",
+        "packageName": "com.appspace.app",
+        "versionNumber": "2.97.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/envoy-1_6_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/envoy-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.envoy.rooms.crestron",
+        "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.plantym.b2b.hyundai.wallpad",
+        "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/spaceti-2_17_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.17.1",
+        "downgradeable": false
+      }
+    ]
+  },
+  {
+    "deviceModel": "TS*1080",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/MonochromePublic.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "123.0.6312.80",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.blackbird",
+        "versionNumber": "1.3.0.172",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.11.1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.phoenix.touchscreen",
+        "versionNumber": "4.11.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestron_general_web-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.generalweb",
+        "versionNumber": "1.02.017",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/22miles-5_4_50613.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/22miles-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.miles22.adsign",
+        "versionNumber": "5.4.50613",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileType": "apk",
+        "packageName": "com.appspace.app",
+        "versionNumber": "2.97.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/envoy-1_6_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/envoy-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.envoy.rooms.crestron",
+        "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.plantym.b2b.hyundai.wallpad",
+        "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/spaceti-2_17_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.17.1",
+        "downgradeable": false
+      }
+    ]
+  },
+  {
+    "deviceModel": "TS*880",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/MonochromePublic.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "123.0.6312.80",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.blackbird",
+        "versionNumber": "1.3.0.172",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.11.1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.phoenix.touchscreen",
+        "versionNumber": "4.11.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/Crestron_General_Web_v1.02.017.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestron_general_web-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.generalweb",
+        "versionNumber": "1.02.017",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/22miles-5_4_50613.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/22miles-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.miles22.adsign",
+        "versionNumber": "5.4.50613",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileType": "apk",
+        "packageName": "com.appspace.app",
+        "versionNumber": "2.97.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/envoy-1_6_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/envoy-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.envoy.rooms.crestron",
+        "versionNumber": "1.6.1.crestron",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/eptura-1_0_0.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/eptura-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.condecosoftware.roomscreen",
+        "versionNumber": "1.0.0",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.plantym.b2b.hyundai.wallpad",
+        "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/spaceti-2_17_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/spaceti-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.spaceti.meetingroom",
+        "versionNumber": "2.17.1",
+        "downgradeable": false
+      }
+    ]
+  },
+  {
+    "deviceModel": "TS*UC",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/MonochromePublic.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "123.0.6312.80",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.blackbird",
+        "versionNumber": "1.3.0.172",
+        "downgradeable": false
+      }
+    ]
+  },
+  {
+    "deviceModel": "TS*R",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/MonochromePublic.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/chromium-hash.txt",
+        "fileType": "apk",
+        "packageName": "org.chromium.chrome",
+        "versionNumber": "123.0.6312.80"
+      },
+      {
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.11.1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.crestron.phoenix.touchscreen",
+        "versionNumber": "4.11.1"
+      }
+    ]
+  }
+]

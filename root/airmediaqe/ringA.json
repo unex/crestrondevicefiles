@@ -1,0 +1,32 @@
+[
+    {
+        "deviceModel": "*",
+        "filesToUpdate": [
+            {
+                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/log-report.txt",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/log-report-hash.txt",
+                "fileType": "config"
+            }
+        ]
+    },
+	{
+		"deviceModel": "AM-3*",
+		 "filesToUpdate": [
+		  {
+			"fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_2.0300.0020.puf",
+			"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmediaqe/ringA_version.txt",
+			"fileType": "firmware"
+		  }
+		]
+	},
+	{
+		"deviceModel": "TS*",
+		"filesToUpdate": [
+			{
+				"fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx60_3.002.0028.001.puf",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmediaqe/ringA_version.txt",
+				"fileType": "firmware"
+			}
+		]
+	}
+]

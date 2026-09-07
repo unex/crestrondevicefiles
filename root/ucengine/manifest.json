@@ -1,0 +1,12 @@
+[
+  {
+    "deviceModel": "UC-Engine-A",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/firmware/uc-engine-a_2021.09.14.puf",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/ucengine/uceng-version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  }
+]

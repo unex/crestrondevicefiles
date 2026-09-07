@@ -1,0 +1,42 @@
+[
+  {
+    "deviceModel": "AM-3100-WF*",
+     "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_2.0300.0020.puf",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmediaqe/am_version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  },
+	{
+    "deviceModel": "AM-3200-WF*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_2.0300.0020.puf",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmediaqe/am_version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  },
+  {
+    "deviceModel": "AM-3200*",
+    "filesToUpdate": [
+      {
+        "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_2.0300.0020.puf",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmediaqe/am_version.txt",
+        "fileType": "firmware"
+      }
+    ]
+  },
+	{
+		"deviceModel": "UC-Engine-A",
+		"filesToUpdate": [
+			{
+				"fileUrl": "https://crestrondevicefiles.blob.core.windows.net/firmwareqe/uc-engine-a_2021.11.18.puf",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmediaqe/aca_version.txt",
+				"fileType": "firmware"
+			}
+		]
+	}
+]
