@@ -8,6 +8,7 @@ import subprocess
 
 from pathlib import Path
 from urllib.parse import urlparse
+from xml.etree import ElementTree as ET
 
 
 import backoff
@@ -18,6 +19,10 @@ from fake_useragent import UserAgent
 
 TEMP_DIR = Path("temp")
 ROOT_DIR = Path("root")
+
+BASE_URL = "https://crestrondevicefiles.blob.core.windows.net/"
+
+CONTAINERS_FILE = Path("containers.txt")
 
 RE_LINKS = re.compile(r'https?://(?:crestrondevicefiles\.blob\.core\.windows\.net|devicefiles\.crestron\.io)[^\s"<>]+')
 
@@ -34,6 +39,8 @@ class Manager:
 
     def __init__(self, base_folder='root', links_file='links.txt'):
         self.ua = UserAgent()
+        self.new_links = set()
+        self.containers = set()
 
         TEMP_DIR.mkdir(exist_ok=True)
         ROOT_DIR.mkdir(exist_ok=True)
@@ -111,6 +118,90 @@ class Manager:
         return self.strings_search(target_dir)
 
 
+    def build_headers(self) -> dict:
+        return {
+            "User-Agent": self.ua.chrome,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+        }
+
+
+    def load_containers(self) -> set[str]:
+        if not CONTAINERS_FILE.exists():
+            return set()
+
+        containers = set()
+        for line in CONTAINERS_FILE.read_text().splitlines():
+            line = line.split('#', 1)[0].strip()
+            if line:
+                containers.add(line)
+
+        return containers
+
+
+    def save_containers(self) -> None:
+        CONTAINERS_FILE.write_text("\n".join(sorted(self.containers)) + "\n")
+
+
+    def get_containers(self) -> set[str]:
+        self.containers.update(link.split('/', 1)[0] for link in self.links if '/' in link)
+        return self.containers
+
+
+    @backoff.on_exception(backoff.expo, requests.exceptions.RequestException, max_tries=5)
+    def list_container_page(self, container: str, marker: str) -> requests.Response:
+        params = {'restype': 'container', 'comp': 'list'}
+        if marker:
+            params['marker'] = marker
+
+        return requests.get(BASE_URL + container, params=params, headers=self.build_headers(), timeout=60)
+
+
+    def list_container(self, container: str) -> set[str]:
+        """List every blob in a container.
+
+        Only containers published with list access answer this; the rest return
+        404 ResourceNotFound and are left to the plaintext/strings search.
+        """
+        links = set()
+        marker = ''
+
+        while True:
+            response = self.list_container_page(container, marker)
+            if response.status_code != 200:
+                return set()
+
+            try:
+                results = ET.fromstring(response.content)
+            except ET.ParseError:
+                return set()
+
+            for name in results.iterfind('./Blobs/Blob/Name'):
+                if name.text:
+                    links.add(f"{container}/{name.text}")
+
+            marker = (results.findtext('NextMarker') or '').strip()
+            if not marker:
+                return links
+
+
+    def enumerate_containers(self) -> set[str]:
+        containers = self.get_containers()
+        print(f"Listing {len(containers)} containers...")
+
+        found = set()
+        for container in sorted(containers):
+            links = self.list_container(container)
+            if links:
+                print(f"Listed {container}: {len(links)} blobs ({len(links - self.links)} new)")
+            found.update(links)
+
+        return found
+
+
     def download_links(self, links: str) -> None:
         for relative_url in links:
             file_path = self.get_file_path(relative_url)
@@ -129,18 +220,9 @@ class Manager:
 
     @backoff.on_exception(backoff.expo, requests.exceptions.RequestException, max_tries=10)
     def do_download(self, relative_url):
-        headers = {
-            "User-Agent": self.ua.chrome,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-            "Upgrade-Insecure-Requests": "1",
-        }
-
         response = requests.get(
-            f"https://crestrondevicefiles.blob.core.windows.net/{relative_url}",
-            headers=headers,
+            BASE_URL + relative_url,
+            headers=self.build_headers(),
             stream=True,
             timeout=None
         )
@@ -248,8 +330,10 @@ class Manager:
             print("Running in gh-actions")
 
         with open('links.txt', 'r') as file:
-            content = file.read()
-            self.links = set(content.split())
+            # Blob names can contain spaces, so split on lines and not whitespace.
+            self.links = {line.strip() for line in file if line.strip()}
+
+        self.containers = self.load_containers()
 
         try:
             if args.force_archives:
@@ -261,6 +345,13 @@ class Manager:
                 self.progress_bar = False
                 self.search_links = False
                 self.download_links(self.links)
+                return
+
+            found = self.enumerate_containers()
+            print(f"Container listing found {len(found - self.links)} new links")
+            self.links.update(found)
+
+            if args.enumerate_only:
                 return
 
             self.new_links = set(self.links) # copy
@@ -286,12 +377,16 @@ class Manager:
                 with open('links.txt', 'w') as f:
                     f.write("\n".join(sorted(self.links)) + "\n")
 
+            if self.containers:
+                self.save_containers()
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--gh-actions", action="store_true", help="For gh-actions")
     parser.add_argument("--download", action="store_true", help="Download all links")
     parser.add_argument("--force-archives", action="store_true", help="Force processing of archives")
+    parser.add_argument("--enumerate", dest="enumerate_only", action="store_true", help="Only list containers, then update links.txt")
     args = parser.parse_args()
 
     manager = Manager()

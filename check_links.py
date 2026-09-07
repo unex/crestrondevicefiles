@@ -108,7 +108,7 @@ def generate_html(results: list[dict], generated_at: str) -> str:
 
 
 def main():
-    links = sorted(set(LINKS_FILE.read_text().split()))
+    links = sorted({line.strip() for line in LINKS_FILE.read_text().splitlines() if line.strip()})
     print(f"Checking {len(links)} links...")
 
     results = check_all_links(links)
