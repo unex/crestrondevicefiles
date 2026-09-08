@@ -4,7 +4,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0143.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
                 "fileType": "firmware"
             }
         ]
@@ -14,7 +14,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0143.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
                 "fileType": "firmware"
             }
         ]
@@ -24,7 +24,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0143.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
                 "fileType": "firmware"
             }
         ]
@@ -34,7 +34,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://devicefiles.crestron.io/firmware/am3xxx_3.0900.0143.puf",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version.txt",
+                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/airmedia/production/am_version-2.txt",
                 "fileType": "firmware"
             }
         ]
