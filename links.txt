@@ -565,6 +565,7 @@ firmware/am3xxx_3.0700.0433.puf
 firmware/am3xxx_3.0800.0128.puf
 firmware/am3xxx_3.0800.0157.puf
 firmware/am3xxx_3.0900.0128.puf
+firmware/am3xxx_3.0900.0143.puf
 firmware/amps_1.4494.00025.001.puf
 firmware/amps_1.4495.00014.001.puf
 firmware/amps_1.4496.00008.002.puf
