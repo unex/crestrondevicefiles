@@ -899,6 +899,7 @@ firmware/usb-sw_1.000.5670.00019.zip
 firmware/virtualcontrol-vc4pc3-4.0004.00114.zip
 firmware/virtualcontrol-vc4pc3-4.0004.00145.zip
 firmware/virtualcontrol-vc4pc3-4.0004.00153.zip
+firmware/virtualcontrol-vc4pc3-4.0005.00068.zip
 firmware/zrc5.17.5.apk
 firmware/zrc_5.13.0.1725_partner.apk
 firmware/zrc_5.13.6.1785_partner_lite.apk
