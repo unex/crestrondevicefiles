@@ -10,7 +10,7 @@
         "versionNumber": "123.0.6312.80",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
@@ -72,6 +72,14 @@
         "fileType": "apk",
         "packageName": "com.plantym.b2b.hyundai.wallpad",
         "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.robinpowered.rooms",
+        "versionNumber": "4.3.4",
         "downgradeable": false
       },
       {
@@ -95,7 +103,7 @@
         "versionNumber": "123.0.6312.80",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
@@ -157,6 +165,14 @@
         "fileType": "apk",
         "packageName": "com.plantym.b2b.hyundai.wallpad",
         "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.robinpowered.rooms",
+        "versionNumber": "4.3.4",
         "downgradeable": false
       },
       {
@@ -180,7 +196,7 @@
         "versionNumber": "123.0.6312.80",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
@@ -242,6 +258,14 @@
         "fileType": "apk",
         "packageName": "com.plantym.b2b.hyundai.wallpad",
         "versionNumber": "1.2.1",
+        "downgradeable": false
+      },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.robinpowered.rooms",
+        "versionNumber": "4.3.4",
         "downgradeable": false
       },
       {
@@ -265,7 +289,7 @@
         "versionNumber": "123.0.6312.80",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",
@@ -329,6 +353,14 @@
         "versionNumber": "1.2.1",
         "downgradeable": false
       },
+	  {
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
+        "fileType": "apk",
+        "packageName": "com.robinpowered.rooms",
+        "versionNumber": "4.3.4",
+        "downgradeable": false
+      },
       {
         "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/spaceti-2_17_1.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/spaceti-hash.txt",
@@ -350,7 +382,7 @@
         "versionNumber": "123.0.6312.80",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/h5display-1_3_0_172.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/blackbird-hash.txt",
         "fileType": "apk",

@@ -267,6 +267,7 @@ apps/80-Series/Signed/kuiqmeeting-1_0.zip
 apps/80-Series/Signed/matrix-signage-1.10.0.zip
 apps/80-Series/Signed/nw-display-4.0.6-as-3.0.24.zip
 apps/80-Series/Signed/oss-crestron-1.0.zip
+apps/80-Series/Signed/robinrooms-4_3_4.zip
 apps/80-Series/Signed/scplayer_release_crestron_1.16.6s.zip
 apps/80-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip
 apps/80-Series/Signed/sonos_16_1.zip
