@@ -838,6 +838,7 @@ firmware/tsw-xx80-mdep-user-prod_1.0004.0135.puf
 firmware/tsw-xx80-mdep-user-prod_1.0005.0055.puf
 firmware/tsw-xx80-mdep-user-prod_1.0005.0063.puf
 firmware/tsw-xx80-mdep-user-prod_1.0005.0069.puf
+firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf
 firmware/tsw-xx80-mdep-userdebug_0.250717.265.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-engine-a_2021.09.14.puf

@@ -37,7 +37,7 @@
         "packageName": "com.newwaveapps.schedulerdisplay",
         "versionNumber": "1.0.5"
       },
-	  {
+      {
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/spaceti-prod-hash.txt",
         "fileType": "apk",
         "fileUrl": "https://devicefiles.crestron.io/apps/spaceti-2_17_7.zip",
