@@ -5,6 +5,7 @@ aca
 aiop
 airmedia
 airmediaqe
+app
 apps
 avf-device-release
 cengw1
@@ -15,6 +16,7 @@ dge-3200
 dmnaxxsp
 dmps3airmedia
 dmps3omap
+dsp-128x
 firmware
 firmwareqe
 gemini
@@ -29,6 +31,7 @@ nax-firmware
 nvx
 pc350v12
 pc350v18
+pyng-help-files
 qe-test
 sonosapks
 test
