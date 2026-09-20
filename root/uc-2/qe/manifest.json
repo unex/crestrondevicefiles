@@ -1,0 +1,165 @@
+[
+	{
+		"deviceModel": "MERCURY*",
+		"filesToUpdate": [
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/zrc_5.0.812.0426.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/zoomscheduling-hash.txt",
+				"fileType": "apk",
+				"packageName": "us.zoom.zrc",
+				"versionNumber": "5.0.0"
+			}
+		]
+	},
+	{
+	"deviceModel": "UC-2*",
+	"filesToUpdate": [
+		{
+		"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/zrc_5.0.830.0515.apk",
+		"fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/uc-2/qe/zrc_scheduling.hash",
+		"fileType": "apk",
+		"packageName": "us.zoom.zrc",
+		"versionNumber": "5.0.0"
+		}
+		]
+	},
+	{
+		"deviceModel": "TS*",
+		"filesToUpdate": [{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/eventboard-v2.11.0-20200409.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/eventBoard-hash.txt",
+				"fileType": "apk",
+				"packageName": "enderlabs.eventboardandroid.custom",
+				"versionNumber": "2.11.0-20200409"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/robin-crestron-release-v3.3.0.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/robin-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.robinpowered.rooms",
+				"versionNumber": "3.3.0"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/appspace.2.0.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/appspace-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.appspace.app",
+				"versionNumber": "2.0.0"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/zrc_5.0.812.0426.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/zoomscheduling-hash.txt",
+				"fileType": "apk",
+				"packageName": "us.zoom.zrc",
+				"versionNumber": "5.0.0"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/gingco_1.2.9.17.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/gingco-hash.txt",
+				"fileType": "apk",
+				"packageName": "net.gingco.display",
+				"versionNumber": "1.2.9.17"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/co.spaceconnect.apppanel_v3.0.2.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/spaceconnect-hash.txt",
+				"fileType": "apk",
+				"packageName": "co.spaceconnect.apppanel",
+				"versionNumber": "3.0.2"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/NFS-RoomDisplay-v1.5.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/nfs-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.NFSPanel",
+				"versionNumber": "1.5"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/scproxy_release_crestron_4.16.6s.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/sharingcloud_proxy-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.sharingcloud.proxy",
+				"versionNumber": "4.16.6s"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/scplayer_release_crestron_1.16.6s.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/sharingcloud_player-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.sharingcloud.player",
+				"versionNumber": "1.16.6s"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/spaceiq-release.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/spaceiq-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.meetings.spaceiq",
+				"versionNumber": "0.0.3"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/nw-display-3.0.35.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/newwave-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.newwaveapps.schedulerdisplay",
+				"versionNumber": "3.0.35"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/askcody_v1.3.1.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/askcody-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.goaskcody.signage",
+				"versionNumber": "1.3.1"
+			},
+      		{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/matrix-signage-1.10.0.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/matrix-signage-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.matrixbooking.signage",
+				"versionNumber": "1.10.0"
+			},
+      		{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/indoor_finders_v9.5.0.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/indoor_finders-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.indoorfinders.rducrestron",
+				"versionNumber": "9.5.0"
+			},
+      		{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/22Miles_v5.1.160.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/22miles-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.miles22.adsign",
+				"versionNumber": "5.1.160"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/sonosappdownload/Sonos.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/sonosappdownload/Sonos_version.txt",
+				"fileType": "apk",
+				"packageName": "com.sonos.acr",
+				"versionNumber": "10.6.2"
+			},
+			{	
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/delos-darwin-premier_v0.0.91.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/delos-darwin-premier.txt",
+				"fileType": "apk",
+				"packageName": "com.cloudsinc.newWellPremier",
+				"versionNumber": "0.0.91"
+			},
+			{
+			"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/crestron_general_web_v1.0.apk",
+			"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/crestron_general_web-hash.txt",
+			"fileType": "apk",
+			"packageName": "com.crestron.generalweb",
+			"versionNumber": "1.0"
+			},
+			{
+				"fileUrl": "https://firmwareupload.blob.core.windows.net/appdownload/tsw-crestron-home-release_1_6_4.apk",
+				"fileHashUrl": "https://firmwareupload.blob.core.windows.net/appdownload/crestronhome-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.crestron.phoenix.touchscreen",
+				"versionNumber": "1.6.4-tr"
+			}
+
+		]
+
+	}
+]
