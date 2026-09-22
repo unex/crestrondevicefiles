@@ -335,6 +335,7 @@ apps/DGE-1000/h5display_1_2_3_139.zip
 apps/DGE-1000/h5display_1_2_3_142.zip
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
+apps/MTRA_2.10.0_Microsoft-Teams-2026129709-ARM64.apk
 apps/MTRA_2.6.3_Microsoft-Teams-2025090901-ARM64.apk
 apps/MTRA_2.8.0_Microsoft-Teams-2025421910-ARM64.apk
 apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk

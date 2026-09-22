@@ -51,11 +51,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_98_1.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.91.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -399,11 +399,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_98_1.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.91.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -747,11 +747,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_98_1.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.91.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -1124,11 +1124,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_98_1.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.91.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -1185,11 +1185,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_91_0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/70-Series/Signed/appspace-2_98_1.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.91.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {

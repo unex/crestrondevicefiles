@@ -3,11 +3,11 @@
     "deviceModel": "TS*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/MTRA_2.8.0_Microsoft-Teams-2025421910-ARM64.apk",
+        "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/MTRA_2.10.0_Microsoft-Teams-2026129709-ARM64.apk",
         "fileHashURL": "https://crestrondevicefiles.blob.core.windows.net/aiop/teams-version-apk.txt",
         "fileType": "apk",
         "packageName": "com.microsoft.skype.teams.ipphone",
-        "versionNumber": "1449/1.0.96.2025421910"
+        "versionNumber": "1449/1.0.96.2026129709"
       },
 	        {
         "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/aiop/apk/teams/Authenticator_6.2512.8111.apk",
