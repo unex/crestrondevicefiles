@@ -170,6 +170,7 @@ apps/70-Series/Signed/Appspace-2_91_0.zip
 apps/70-Series/Signed/CH_TSW70_4.10.4.zip
 apps/70-Series/Signed/CH_TSW70_4.11.0.zip
 apps/70-Series/Signed/CH_TSW70_4.11.1.zip
+apps/70-Series/Signed/CH_TSW70_4.12.16.zip
 apps/70-Series/Signed/CH_TSW70_4.6.15.zip
 apps/70-Series/Signed/CH_TSW70_4.6.18.zip
 apps/70-Series/Signed/CH_TSW70_4.7.9.zip
@@ -239,6 +240,7 @@ apps/80-Series/Signed/CH_TSW70_4.6.15.zip
 apps/80-Series/Signed/CH_TSW70_4.6.18.zip
 apps/80-Series/Signed/CH_TSW80_4.11.0.zip
 apps/80-Series/Signed/CH_TSW80_4.11.1.zip
+apps/80-Series/Signed/CH_TSW80_4.12.16.zip
 apps/80-Series/Signed/Crestron_General_Web_v1.02.017.zip
 apps/80-Series/Signed/DelosDarwinPremier0.103.zip
 apps/80-Series/Signed/Hummingbird-7_6_2.zip
@@ -299,6 +301,7 @@ apps/Appspace-2_88_1.zip
 apps/CH_TST_4.10.4.zip
 apps/CH_TST_4.11.0.zip
 apps/CH_TST_4.11.1.zip
+apps/CH_TST_4.12.16.zip
 apps/CH_TST_4.3.17.apk
 apps/CH_TST_4.4.18.apk
 apps/CH_TST_4.5.32.apk
@@ -319,6 +322,7 @@ apps/Crestron_General_Web_v1.02.017.apk
 apps/DGE-1000/CH_DGE1000_4.10.4.zip
 apps/DGE-1000/CH_DGE1000_4.11.0.zip
 apps/DGE-1000/CH_DGE1000_4.11.1.zip
+apps/DGE-1000/CH_DGE1000_4.12.16.zip
 apps/DGE-1000/CH_DGE1000_4.8.10.zip
 apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.17.apk
 apps/DGE-1000/Crestron_General_Web_dge_1000_1.02.25.apk
