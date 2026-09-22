@@ -12,9 +12,9 @@
       {
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/appspace-prod-hash.txt",
         "fileType": "apk",
-        "fileUrl": "https://devicefiles.crestron.io/apps/appspace-2_94_0.zip",
+        "fileUrl": "https://devicefiles.crestron.io/apps/appspace-2_98_1.zip",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.94.0"
+        "versionNumber": "2.98.1"
       },
       {
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/tss-470/production/applications/generalweb-prod-hash.txt",

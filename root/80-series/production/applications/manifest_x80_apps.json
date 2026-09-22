@@ -43,11 +43,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
-        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_98_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.97.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -74,7 +74,7 @@
         "versionNumber": "1.2.1",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
         "fileType": "apk",
@@ -136,11 +136,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
-        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_98_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.97.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -167,7 +167,7 @@
         "versionNumber": "1.2.1",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
         "fileType": "apk",
@@ -229,11 +229,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
-        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_98_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.97.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -260,7 +260,7 @@
         "versionNumber": "1.2.1",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
         "fileType": "apk",
@@ -322,11 +322,11 @@
         "downgradeable": false
       },
       {
-        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_97_0.zip",
-        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace_hash.txt",
+        "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/appspace-2_98_1.zip",
+        "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/appspace-hash.txt",
         "fileType": "apk",
         "packageName": "com.appspace.app",
-        "versionNumber": "2.97.0",
+        "versionNumber": "2.98.1",
         "downgradeable": false
       },
       {
@@ -353,7 +353,7 @@
         "versionNumber": "1.2.1",
         "downgradeable": false
       },
-	  {
+      {
         "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
         "fileType": "apk",

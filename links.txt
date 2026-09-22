@@ -193,6 +193,7 @@ apps/70-Series/Signed/appspace-2_79_0.zip
 apps/70-Series/Signed/appspace-2_86_0.zip
 apps/70-Series/Signed/appspace-2_88_1.zip
 apps/70-Series/Signed/appspace-2_91_0.zip
+apps/70-Series/Signed/appspace-2_98_1.zip
 apps/70-Series/Signed/askcody_v1.3.1.zip
 apps/70-Series/Signed/crestronFull-14.23.zip
 apps/70-Series/Signed/crestronFull-14.27.zip
@@ -221,6 +222,7 @@ apps/70-Series/Signed/nw-display-4.0.6-as-3.0.24.zip
 apps/70-Series/Signed/oro-1.1.0.zip
 apps/70-Series/Signed/oro-1_3_0.zip
 apps/70-Series/Signed/oss-crestron-1.0.zip
+apps/70-Series/Signed/robinrooms-4_3_4.zip
 apps/70-Series/Signed/scplayer_release_crestron_1.16.6s.zip
 apps/70-Series/Signed/scproxy_release_sharingcloud_4.19.6s.zip
 apps/70-Series/Signed/sonos_16_1.zip
@@ -253,6 +255,7 @@ apps/80-Series/Signed/Spaceconnect_432.zip
 apps/80-Series/Signed/Wallpad_v1.2.1_19.zip
 apps/80-Series/Signed/appspace-2_79_0.zip
 apps/80-Series/Signed/appspace-2_97_0.zip
+apps/80-Series/Signed/appspace-2_98_1.zip
 apps/80-Series/Signed/askcody_v1.3.1.zip
 apps/80-Series/Signed/crestronFull-14.23.zip
 apps/80-Series/Signed/crestronFull-14.27.zip
@@ -376,6 +379,7 @@ apps/appspace-2_74_0.apk
 apps/appspace-2_78_2.apk
 apps/appspace-2_79_0.apk
 apps/appspace-2_94_0.zip
+apps/appspace-2_98_1.zip
 apps/appspace-3-24-23.apk
 apps/appspace-5-15-23.apk
 apps/appspace_2_25_0.apk
