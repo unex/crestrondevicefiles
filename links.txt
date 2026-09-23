@@ -715,6 +715,7 @@ firmware/mercury_1.5001.00042.001.puf
 firmware/mercury_1.5003.00020.001.puf
 firmware/mercury_1.5003.00032.001.puf
 firmware/mercury_1.5003.00055.001.puf
+firmware/mercury_1.5003.00070.001.puf
 firmware/p20-p12-V1.0.16.img
 firmware/p20-p12_1.0.17.img
 firmware/p20-p12_1.0.18.img
