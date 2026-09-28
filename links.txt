@@ -90,6 +90,7 @@
 80-series/production/applications/nexudus-hash.txt
 80-series/production/applications/nfs-hash.txt
 80-series/production/applications/officespace-hash.txt
+80-series/production/applications/oro-hash.txt
 80-series/production/applications/pads4-hash.txt
 80-series/production/applications/pepperdash-hash.txt
 80-series/production/applications/robin-hash.txt
@@ -273,6 +274,7 @@ apps/80-Series/Signed/indoor_finders_v9.5.0.zip
 apps/80-Series/Signed/kuiqmeeting-1_0.zip
 apps/80-Series/Signed/matrix-signage-1.10.0.zip
 apps/80-Series/Signed/nw-display-4.0.6-as-3.0.24.zip
+apps/80-Series/Signed/oro-1_5_5.zip
 apps/80-Series/Signed/oss-crestron-1.0.zip
 apps/80-Series/Signed/robinrooms-4_3_4.zip
 apps/80-Series/Signed/scplayer_release_crestron_1.16.6s.zip

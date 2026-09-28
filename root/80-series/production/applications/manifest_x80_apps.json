@@ -74,8 +74,17 @@
                 "versionNumber": "1.2.1",
                 "downgradeable": false
             },
+			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/oro-1_5_5.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.5.5",
+				"downgradeable": false
+			},
             {
-                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/robinrooms-4_3_4.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.robinpowered.rooms",
@@ -167,8 +176,17 @@
                 "versionNumber": "1.2.1",
                 "downgradeable": false
             },
+			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/oro-1_5_5.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.5.5",
+				"downgradeable": false
+			},
             {
-                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/robinrooms-4_3_4.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.robinpowered.rooms",
@@ -260,8 +278,17 @@
                 "versionNumber": "1.2.1",
                 "downgradeable": false
             },
+			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/oro-1_5_5.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.5.5",
+				"downgradeable": false
+			},
             {
-                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/robinrooms-4_3_4.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.robinpowered.rooms",
@@ -353,8 +380,17 @@
                 "versionNumber": "1.2.1",
                 "downgradeable": false
             },
+			{
+				"modeName": "ORO",
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/oro-1_5_5.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/oro-hash.txt",
+				"fileType": "apk",
+				"packageName": "cc.oro.app",
+				"versionNumber": "1.5.5",
+				"downgradeable": false
+			},
             {
-                "fileUrl": "https://crestrondevicefiles.blob.core.windows.net/apps/80-Series/Signed/robinrooms-4_3_4.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/robinrooms-4_3_4.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/robin-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.robinpowered.rooms",
