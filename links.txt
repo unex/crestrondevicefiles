@@ -283,6 +283,7 @@ apps/80-Series/Signed/sonos_16_1.zip
 apps/80-Series/Signed/spaceiq-release.zip
 apps/80-Series/Signed/spaceti-2_17_1.zip
 apps/80-Series/Signed/wallpad-1_2_1.zip
+apps/80-Series/Signed/zrc-7_2_0_5611.zip
 apps/80-Series/Signed/zrc_6_3_5.zip
 apps/AM3K/Dev/appspace-2-61-0.apk
 apps/AM3K/beta/apps/CP-5.0.6061.0.apk
