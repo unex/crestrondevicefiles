@@ -3,10 +3,10 @@
     "deviceModel": "TS*GV",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -14,10 +14,10 @@
     "deviceModel": "TS*R",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -25,10 +25,10 @@
     "deviceModel": "TS*-1080-UC",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -36,10 +36,10 @@
     "deviceModel": "TS*-880",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -47,10 +47,10 @@
     "deviceModel": "TS*-1080",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -58,10 +58,10 @@
     "deviceModel": "TSW-1580",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -69,10 +69,10 @@
     "deviceModel": "TSS-880*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   },
@@ -80,10 +80,10 @@
     "deviceModel": "TSS-1080*",
     "filesToUpdate": [
       {
-        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf",
+        "fileUrl": "https://devicefiles.crestron.io/firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf",
         "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/firmware/tss-version.txt",
         "fileType": "firmware",
-        "versionNumber": "1.0006.0047"
+        "versionNumber": "1.0601.0017"
       }
     ]
   }
