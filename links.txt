@@ -111,10 +111,13 @@ aca/qe/ZR_APK/manifest_ACA_ZR_APK5.9.3.653.json
 aca/release/apk/manifest.json
 aca/release/manifest.json
 aca/release/version.txt
+aiop/apk/teams/Authenticator-6.2606.4246-202642463.apk
 aiop/apk/teams/Authenticator-version-apk.txt
 aiop/apk/teams/Authenticator_6.2512.8111.apk
 aiop/apk/teams/Microsoft-IPPhone-Admin-Agent-product-803.apk
+aiop/apk/teams/Microsoft-IPPhone-Admin-Agent-product-856.apk
 aiop/apk/teams/Microsoft_Intune_25.02.1.apk
+aiop/apk/teams/Microsoft_Intune_AOSP-Agent-26.6.0.apk
 aiop/apk/teams/adminagent-version-apk.txt
 aiop/apk/teams/intune-version-apk.txt
 aiop/dev/apk/version-zrc-apk.txt
@@ -344,6 +347,7 @@ apps/DGE-1000/h5display_1_2_3_142.zip
 apps/DGE-1000/sonos_dge_1000_16_1.zip
 apps/Korbyt_1_3.apk
 apps/MTRA_2.10.0_Microsoft-Teams-2026129709-ARM64.apk
+apps/MTRA_2.10.2_Microsoft-Teams-2026144512-ARM64.apk
 apps/MTRA_2.6.3_Microsoft-Teams-2025090901-ARM64.apk
 apps/MTRA_2.8.0_Microsoft-Teams-2025421910-ARM64.apk
 apps/Microsoft-TeamsRooms-2025031102-ARM64_2.4.3.apk
