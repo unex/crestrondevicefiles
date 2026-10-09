@@ -19,11 +19,11 @@
                 "downgradeable": false
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/CH_DGE1000_4.12.16.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/DGE-1000/CH_DGE1000_4.12.17.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/dge-1000/production/applications/ch_dge_1000_hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.12.16",
+                "versionNumber": "4.12.17",
                 "downgradeable": false
             },
             {
