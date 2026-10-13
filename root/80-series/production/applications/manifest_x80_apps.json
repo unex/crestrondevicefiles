@@ -19,11 +19,11 @@
                 "downgradeable": false
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.18.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.12.17",
+                "versionNumber": "4.12.18",
                 "downgradeable": false
             },
             {
@@ -129,11 +129,11 @@
                 "downgradeable": false
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.18.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.12.17",
+                "versionNumber": "4.12.18",
                 "downgradeable": false
             },
             {
@@ -231,11 +231,11 @@
                 "downgradeable": false
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.18.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.12.17",
+                "versionNumber": "4.12.18",
                 "downgradeable": false
             },
             {
@@ -341,11 +341,11 @@
                 "downgradeable": false
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.18.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.12.17",
+                "versionNumber": "4.12.18",
                 "downgradeable": false
             },
             {
@@ -471,11 +471,11 @@
                 "versionNumber": "123.0.6312.80"
             },
             {
-                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.17.zip",
+                "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/CH_TSW80_4.12.18.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/crestronhome-hash.txt",
                 "fileType": "apk",
                 "packageName": "com.crestron.phoenix.touchscreen",
-                "versionNumber": "4.12.17"
+                "versionNumber": "4.12.18"
             }
         ]
     }
