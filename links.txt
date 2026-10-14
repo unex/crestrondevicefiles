@@ -707,10 +707,13 @@ firmware/i20-i12_1.1.00.img
 firmware/i20-i12_1.1.03.img
 firmware/i20-i12_2.0.15.img
 firmware/i20-i12_2.1.02.img
+firmware/i20-i12_2.2.06.img
 firmware/iv-cam-i12D_1.0.0.39.img
 firmware/iv-cam-i12D_1.1.05.img
 firmware/iv-cam-i20-i12_2.0.15.img
+firmware/iv-cam-i20-i12_2.2.06.img
 firmware/iv-cam-p20-p12_2.0.15.img
+firmware/iv-cam-p20-p12_2.2.06.img
 firmware/mercury_1.4647.00022.001.puf
 firmware/mercury_1.4647.00024.002.puf
 firmware/mercury_1.4736.00038.001.puf
@@ -745,6 +748,7 @@ firmware/p20-p12_1.1.02.img
 firmware/p20-p12_1.1.03.img
 firmware/p20-p12_2.0.15.img
 firmware/p20-p12_2.1.108.img
+firmware/p20-p12_2.2.06.img
 firmware/pc-350v-1x_1.004.0009.puf
 firmware/pc-350v-1x_1.005.0014.puf
 firmware/pc-350v-1x_3.008.0105.14118.puf
