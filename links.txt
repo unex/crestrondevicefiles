@@ -633,6 +633,7 @@ firmware/dge-1000_1.0001.00048.puf
 firmware/dge-1000_1.0001.00050.puf
 firmware/dge-1000_1.0002.00045.puf
 firmware/dge-1000_1.0002.00049.puf
+firmware/dge-1000_1.0003.00008.puf
 firmware/dge-1000_9.5755.20306.puf
 firmware/dge-1000_9.5978.21191.puf
 firmware/dge-1000_9.6039.20565.puf
