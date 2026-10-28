@@ -78,6 +78,7 @@
 80-series/production/applications/eptura-hash.txt
 80-series/production/applications/eventBoard-hash.txt
 80-series/production/applications/gingco-hash.txt
+80-series/production/applications/gobright-hash.txt
 80-series/production/applications/indoor_finders-hash.txt
 80-series/production/applications/ioffice-hash.txt
 80-series/production/applications/kardhamdigital-hash.txt
@@ -277,6 +278,7 @@ apps/80-Series/Signed/envoy_v1_2_0.zip
 apps/80-Series/Signed/eptura-1_0_0.zip
 apps/80-Series/Signed/eventboard-v2.20.0.zip
 apps/80-Series/Signed/gingco_1.2.9.17.zip
+apps/80-Series/Signed/gobright-14_37.zip
 apps/80-Series/Signed/h5display-1_3_0_172.zip
 apps/80-Series/Signed/indoor_finders_v9.5.0.zip
 apps/80-Series/Signed/kuiqmeeting-1_0.zip
@@ -875,6 +877,7 @@ firmware/tsw-xx80-mdep-user-prod_1.0005.0063.puf
 firmware/tsw-xx80-mdep-user-prod_1.0005.0069.puf
 firmware/tsw-xx80-mdep-user-prod_1.0006.0047.puf
 firmware/tsw-xx80-mdep-user-prod_1.0601.0017.puf
+firmware/tsw-xx80-mdep-user-prod_1.0602.0029.puf
 firmware/tsw-xx80-mdep-userdebug_0.250717.265.puf
 firmware/uc-audio-hub_uc-audio-pod_1.3.0127.00204.zip
 firmware/uc-engine-a_2021.09.14.puf

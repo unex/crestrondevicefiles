@@ -66,6 +66,14 @@
                 "versionNumber": "1.0.0",
                 "downgradeable": false
             },
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/gobright-14_37.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/gobright-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.gobright.brightbooking.display",
+				"versionNumber": "14.37",
+				"downgradeable": false
+			},
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
@@ -176,6 +184,14 @@
                 "versionNumber": "1.0.0",
                 "downgradeable": false
             },
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/gobright-14_37.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/gobright-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.gobright.brightbooking.display",
+				"versionNumber": "14.37",
+				"downgradeable": false
+			},
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
@@ -278,6 +294,14 @@
                 "versionNumber": "1.0.0",
                 "downgradeable": false
             },
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/gobright-14_37.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/gobright-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.gobright.brightbooking.display",
+				"versionNumber": "14.37",
+				"downgradeable": false
+			},
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
@@ -388,6 +412,14 @@
                 "versionNumber": "1.0.0",
                 "downgradeable": false
             },
+			{
+				"fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/gobright-14_37.zip",
+				"fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/gobright-hash.txt",
+				"fileType": "apk",
+				"packageName": "com.gobright.brightbooking.display",
+				"versionNumber": "14.37",
+				"downgradeable": false
+			},
             {
                 "fileUrl": "https://devicefiles.crestron.io/apps/80-Series/Signed/wallpad-1_2_1.zip",
                 "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/80-series/production/applications/wallpad-hash.txt",
